@@ -22,12 +22,9 @@ TARGET_KR_STOCKS = [
     {"name": "SK하이닉스", "code": "000660"},
 ]
 
-# [미국장 확장 영역] 다른 멤버가 여기에 미국 종목을 추가하면 자동으로 수집·표시됩니다.
-TARGET_US_STOCKS = [
-    {"name": "엔비디아", "ticker": "NVDA"},
-    {"name": "애플", "ticker": "AAPL"},
-    {"name": "마이크로소프트", "ticker": "MSFT"},
-]
+# 미국장 공식 소식은 /us/ 독립 페이지와 us/build.py가 담당합니다.
+# 국내 페이지의 자동 갱신이 미국 페이지를 덮어쓰지 않도록 비워 둡니다.
+TARGET_US_STOCKS = []
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -158,7 +155,7 @@ def get_stock_news(query: str, lang: str = "ko", max_count: int = 4) -> list:
 def build_markdown_report(kr_stocks: list, us_stocks: list, date_str: str) -> str:
     """마크다운 포맷 브리핑 리포트 생성"""
     md = []
-    md.append(f"## 📊 [글로벌 주식 브리핑] 국장 반도체 & 미장 빅테크")
+    md.append(f"## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스")
     md.append(f"> 기준 일시: **{date_str}**  *(GitHub Actions 자동 갱신)*\n")
 
     # 1. 국장 요약
@@ -303,7 +300,7 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>글로벌 주식 브리핑 | 국장 & 미장 대시보드</title>
+  <title>국내 반도체 브리핑 | 삼성전자 & SK하이닉스</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -317,6 +314,10 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
   </div>
 
   <div class="relative z-10 max-w-6xl mx-auto px-4 py-8 sm:py-14">
+    <nav class="mb-8 flex flex-wrap gap-2" aria-label="시장 페이지 선택">
+      <a href="./" aria-current="page" class="px-4 py-2 rounded-full bg-white text-slate-950 text-sm font-bold">🇰🇷 국내 브리핑</a>
+      <a href="./us/" class="px-4 py-2 rounded-full bg-slate-900 border border-slate-700 text-slate-300 hover:text-white hover:border-slate-500 text-sm font-bold transition-all">🇺🇸 미국 공식 소식</a>
+    </nav>
     <!-- Header -->
     <header class="mb-10 text-center sm:text-left sm:flex sm:items-end sm:justify-between border-b border-slate-800/80 pb-6">
       <div>
@@ -327,8 +328,8 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
           </span>
           GitHub Actions 자동 연동 중
         </div>
-        <h1 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">글로벌 주식 모니터링</h1>
-        <p class="text-slate-400 text-sm mt-1">국내 반도체(삼성·하이닉스) & 미국 빅테크 실시간 시세 대시보드</p>
+        <h1 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">국내 반도체 브리핑</h1>
+        <p class="text-slate-400 text-sm mt-1">삼성전자·SK하이닉스 시세와 주요 뉴스를 자동으로 정리합니다.</p>
       </div>
 
       <div class="mt-4 sm:mt-0 flex flex-wrap items-center gap-3 justify-center sm:justify-end">
@@ -355,7 +356,7 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
             디스코드로 실시간 주식 알림 받아보기
             <span class="text-[10px] px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 font-semibold border border-emerald-500/20">연동 준비 완료</span>
           </div>
-          <p class="text-xs text-slate-300 mt-0.5">매일 16:00 KST에 삼성전자·SK하이닉스 시세 및 미국 빅테크 브리핑이 채널로 도착합니다.</p>
+          <p class="text-xs text-slate-300 mt-0.5">매일 16:00 KST에 삼성전자·SK하이닉스 시세와 뉴스 브리핑이 채널로 도착합니다.</p>
         </div>
       </div>
       <button onclick="openDiscordModal()" class="shrink-0 text-xs font-bold px-4 py-2.5 rounded-xl bg-[#5865F2] hover:bg-[#4752C4] text-white transition-all shadow-lg shadow-[#5865F2]/30 flex items-center gap-1.5 cursor-pointer">
@@ -376,20 +377,7 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
       </div>
     </section>
 
-    <!-- SECTION 2: US MARKET -->
-    <section class="mb-12">
-      <div class="flex items-center justify-between mb-4">
-        <h2 class="text-xl font-bold text-white flex items-center gap-2">
-          <span>🇺🇸</span> 미국 빅테크 (엔비디아 · 애플 · MS)
-        </h2>
-        <span class="text-xs text-indigo-400 bg-indigo-500/10 px-2 py-0.5 rounded border border-indigo-500/20">팀원 협업 연동 영역</span>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
-        {us_cards}
-      </div>
-    </section>
-
-    <!-- SECTION 3: NEWS & REPORT -->
+    <!-- SECTION 2: NEWS & REPORT -->
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
       <div class="lg:col-span-2">
         <h3 class="text-xl font-bold text-white mb-5 flex items-center gap-2">
@@ -401,13 +389,13 @@ def generate_html_dashboard(kr_stocks: list, us_stocks: list, date_str: str):
       <!-- Side Report Info -->
       <div class="lg:col-span-1">
         <div class="sticky top-6 bg-gradient-to-br from-slate-900 to-indigo-950/40 border border-indigo-500/20 rounded-2xl p-6 shadow-xl">
-          <span class="text-xs font-bold uppercase tracking-wider text-indigo-400 block mb-2">💡 협업 및 비교 보고서</span>
-          <h3 class="text-lg font-bold text-white mb-2">미국장이 왜 좋은가?</h3>
+          <span class="text-xs font-bold uppercase tracking-wider text-indigo-400 block mb-2">🇺🇸 연결된 미국 페이지</span>
+          <h3 class="text-lg font-bold text-white mb-2">GOOGL·NVDA 공식 소식</h3>
           <p class="text-xs text-slate-300 leading-relaxed mb-4">
-            미국 빅테크는 자사주 소각과 AI 생태계 장악으로 장기 우상향 체력을 가집니다. 다른 팀원은 <code>TARGET_US_STOCKS</code>에 티커를 추가하여 즉시 확장할 수 있습니다.
+            Google 공식 블로그와 NVIDIA Newsroom의 최신 발표를 별도 페이지에서 확인할 수 있습니다.
           </p>
-          <a href="https://github.com/hanjisubusiness22222/project3/blob/main/market_review_and_feasibility.md" target="_blank" class="block w-full text-center py-2.5 px-4 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-medium text-xs border border-slate-700/80 transition-all">
-            국장 vs 미장 검토 보고서 보기 📄
+          <a href="./us/" class="block w-full text-center py-2.5 px-4 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-medium text-xs border border-indigo-500 transition-all">
+            미국 공식 소식 보기 →
           </a>
         </div>
       </div>
@@ -496,23 +484,17 @@ def send_discord_alert(kr_stocks: list, us_stocks: list, date_str: str):
             f"• **{s['quote']['name']}**: {s['quote']['close_price']}원 ({s['quote']['sign']} {s['quote']['diff_ratio']}%) - [실제시세]({s['quote']['verify_url']})"
             for s in kr_stocks
         ])
-        
-        us_field_text = "\n".join([
-            f"• **{s['quote']['name']}**: ${s['quote']['close_price']} ({s['quote']['sign']} {s['quote']['diff_ratio']}%) - [실제시세]({s['quote']['verify_url']})"
-            for s in us_stocks
-        ])
 
         payload = {
             "username": "주식 브리핑 봇",
             "avatar_url": "https://cdn-icons-png.flaticon.com/512/2422/2422796.png",
             "embeds": [
                 {
-                    "title": "📊 글로벌 주식 브리핑 (국장 & 미장)",
+                    "title": "📊 국내 반도체 브리핑",
                     "description": f"기준 일시: `{date_str}`\n[웹 대시보드 바로가기](https://hanjisubusiness22222.github.io/project3/)",
                     "color": 0x4F46E5,  # 인디고 색상
                     "fields": [
                         {"name": "🇰🇷 국내 반도체", "value": kr_field_text or "데이터 없음", "inline": False},
-                        {"name": "🇺🇸 미국 빅테크", "value": us_field_text or "데이터 없음", "inline": False},
                     ],
                     "footer": {"text": "GitHub Actions 자동 알림 파이프라인"}
                 }
@@ -525,7 +507,7 @@ def send_discord_alert(kr_stocks: list, us_stocks: list, date_str: str):
         print(f"[디스코드 알림 전송 실패] {e}")
 
 def main():
-    print("=== [글로벌 주식/뉴스 수집 시작] ===")
+    print("=== [국내 반도체 주식/뉴스 수집 시작] ===")
     
     # 1. 국내 주식 수집
     kr_stocks_data = []
@@ -536,7 +518,7 @@ def main():
         if quote:
             kr_stocks_data.append({"quote": quote, "news": news})
 
-    # 2. 미국 주식 수집 (팀원 확장 영역)
+    # 2. 미국 공식 소식은 별도 us/build.py가 처리합니다.
     us_stocks_data = []
     for stock in TARGET_US_STOCKS:
         print(f"[미장: {stock['name']}] 시세 수집 중...")

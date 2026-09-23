@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="GOOGL과 NVDA의 최신 공식 소식을 모은 자동 갱신 대시보드">
+  <title>Official Signal — GOOGL & NVDA</title>
+  <style>
+    :root { --ink:#111827; --muted:#697386; --line:#e5e7eb; --paper:#f6f7f9; --white:#fff; --blue:#2563eb; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--paper); font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif; }
+    .topbar { height:5px; background:linear-gradient(90deg,#4285f4 0 48%,#76b900 52% 100%); }
+    .market-nav { max-width:1180px; margin:0 auto; padding:24px 28px 0; display:flex; gap:8px; flex-wrap:wrap; }
+    .market-nav a { padding:10px 16px; border:1px solid var(--line); border-radius:999px; color:var(--muted); background:var(--white); font-size:13px; font-weight:800; text-decoration:none; }
+    .market-nav a.active { color:var(--white); background:var(--ink); border-color:var(--ink); }
+    header { max-width:1180px; margin:auto; padding:58px 28px 34px; }
+    .kicker { margin:0 0 14px; color:var(--blue); font-size:12px; font-weight:800; letter-spacing:.16em; }
+    h1 { margin:0; font-family:Georgia,serif; font-size:clamp(42px,7vw,78px); line-height:.95; letter-spacing:-.055em; }
+    .lead { max-width:720px; margin:24px 0 0; color:var(--muted); font-size:17px; line-height:1.7; }
+    .toolbar { max-width:1180px; margin:auto; padding:0 28px 24px; display:flex; justify-content:space-between; gap:18px; align-items:end; flex-wrap:wrap; }
+    .filters { display:flex; gap:8px; }
+    button { border:1px solid var(--line); background:var(--white); color:var(--muted); padding:10px 17px; border-radius:999px; font-weight:750; cursor:pointer; }
+    button.active { color:white; background:var(--ink); border-color:var(--ink); }
+    .updated { color:var(--muted); font-size:12px; text-align:right; }
+    .summary { max-width:1180px; margin:0 auto 28px; padding:0 28px; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+    .source-status { background:white; border:1px solid var(--line); border-radius:14px; padding:15px 17px; display:flex; align-items:center; gap:11px; }
+    .source-status small { display:block; margin-top:3px; color:var(--muted); }
+    .status-dot { width:9px; height:9px; border-radius:50%; background:#dc2626; box-shadow:0 0 0 4px #fee2e2; }
+    .status-dot.ok { background:#16a34a; box-shadow:0 0 0 4px #dcfce7; }
+    .errors { max-width:1124px; margin:0 auto 24px; padding:15px 20px; border:1px solid #fecaca; border-radius:14px; color:#991b1b; background:#fef2f2; }
+    main { max-width:1180px; margin:auto; padding:0 28px 54px; }
+    .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; }
+    .news-card { background:var(--white); border:1px solid var(--line); border-radius:18px; padding:23px; min-height:184px; display:flex; flex-direction:column; transition:.2s ease; }
+    .news-card:hover { transform:translateY(-2px); box-shadow:0 16px 36px #11182710; }
+    .news-card.hidden { display:none; }
+    .card-top { display:flex; gap:7px; align-items:center; }
+    .ticker,.tag,.new { padding:5px 8px; border-radius:6px; font-size:10px; font-weight:850; letter-spacing:.08em; }
+    .ticker { background:#eef2ff; color:#3730a3; } .tag { background:#f3f4f6; color:#4b5563; } .new { background:#ecfdf5; color:#047857; }
+    h3 { margin:17px 0 25px; font-size:19px; line-height:1.45; letter-spacing:-.02em; }
+    h3 a { color:inherit; text-decoration:none; } h3 a:hover { color:var(--blue); text-decoration:underline; }
+    .meta { margin-top:auto; padding-top:14px; border-top:1px solid var(--line); display:flex; justify-content:space-between; gap:12px; color:var(--muted); font-size:11px; }
+    .empty { padding:70px 20px; text-align:center; color:var(--muted); background:white; border:1px dashed var(--line); border-radius:18px; }
+    footer { border-top:1px solid var(--line); background:white; }
+    .footer-inner { max-width:1180px; margin:auto; padding:27px 28px 38px; color:var(--muted); font-size:12px; line-height:1.7; display:flex; justify-content:space-between; gap:24px; flex-wrap:wrap; }
+    footer a { color:var(--ink); }
+    @media(max-width:720px) { header { padding-top:42px; } .grid,.summary { grid-template-columns:1fr; } .meta { flex-direction:column; } .updated { text-align:left; } }
+  </style>
+</head>
+<body>
+  <div class="topbar"></div>
+  <nav class="market-nav" aria-label="시장 페이지 선택">
+    <a href="../">🇰🇷 국내 브리핑</a>
+    <a href="./" class="active" aria-current="page">🇺🇸 미국 공식 소식</a>
+  </nav>
+  <header>
+    <p class="kicker">OFFICIAL COMPANY SIGNALS</p>
+    <h1>What moved<br>the conversation?</h1>
+    <p class="lead">GOOGL과 NVDA가 직접 발행한 최신 소식을 한곳에서 확인하세요. 원문 제목과 발행 시각을 보존하고, 매시 GitHub Actions가 새 페이지를 만듭니다.</p>
+  </header>
+  <section class="toolbar" aria-label="뉴스 필터">
+    <div class="filters">
+      <button class="active" data-filter="ALL" type="button">전체</button>
+      <button data-filter="GOOGL" type="button">GOOGL</button>
+      <button data-filter="NVDA" type="button">NVDA</button>
+    </div>
+    <div class="updated">마지막 갱신 <strong>2026.09.23 17:19:53 KST</strong><br>Actions #로컬 · commit local</div>
+  </section>
+  <section class="summary" aria-label="데이터 소스 상태"><div class="source-status"><span class="status-dot ok"></span><div><strong>GOOGL</strong><small>Google 공식 블로그 · 8개</small></div></div><div class="source-status"><span class="status-dot ok"></span><div><strong>NVDA</strong><small>NVIDIA Newsroom 보도자료 · 8개</small></div></div></section>
+
+  <main>
+    <div class="grid" id="news-grid"><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/" target="_blank" rel="noopener noreferrer">Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-22T23:50:00+00:00">2026.09.23 08:50 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/" target="_blank" rel="noopener noreferrer">Investing in global talent and AI literacy</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-22T16:00:00+00:00">2026.09.23 01:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/" target="_blank" rel="noopener noreferrer">Using AI to help local governments connect with constituents</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-22T14:00:00+00:00">2026.09.22 23:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/products-and-platforms/products/education/digital-promise/" target="_blank" rel="noopener noreferrer">Expanding free AI training for educators</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-21T16:00:00+00:00">2026.09.22 01:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">OFFICIAL</span></div>
+          <h3><a href="https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/" target="_blank" rel="noopener noreferrer">Googlebook’s built-in intelligence reinvents the way you use your laptop</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-21T13:00:00+00:00">2026.09.21 22:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">OFFICIAL</span></div>
+          <h3><a href="https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/" target="_blank" rel="noopener noreferrer">Premium materials and striking design set Googlebook apart</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-21T13:00:00+00:00">2026.09.21 22:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/" target="_blank" rel="noopener noreferrer">Googlebook: The laptop your Android phone has been waiting for</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-21T13:00:00+00:00">2026.09.21 22:00 KST</time></div>
+        </article><article class="news-card" data-ticker="GOOGL">
+          <div class="card-top"><span class="ticker">GOOGL</span><span class="tag">AI</span></div>
+          <h3><a href="https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/" target="_blank" rel="noopener noreferrer">Earn continuing education and college credits for AI educator training.</a></h3>
+          <div class="meta"><span>Google 공식 블로그</span><time datetime="2026-09-18T16:00:00+00:00">2026.09.19 01:00 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">CHIP</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing" target="_blank" rel="noopener noreferrer">NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-09-14T13:00:00+00:00">2026.09.14 22:00 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">AI</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains" target="_blank" rel="noopener noreferrer">NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-09-10T09:00:00+00:00">2026.09.10 18:00 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">AI</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem" target="_blank" rel="noopener noreferrer">NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-09-10T00:00:00+00:00">2026.09.10 09:00 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">AI</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms" target="_blank" rel="noopener noreferrer">NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-08-31T12:30:00+00:00">2026.08.31 21:30 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">FINANCE</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858" target="_blank" rel="noopener noreferrer">NVIDIA Announces Upcoming Event for Financial Community</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-08-27T21:00:00+00:00">2026.08.28 06:00 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">AI</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai" target="_blank" rel="noopener noreferrer">AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-08-26T21:05:00+00:00">2026.08.27 06:05 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">FINANCE</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027" target="_blank" rel="noopener noreferrer">NVIDIA Announces Financial Results for Second Quarter Fiscal 2027</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-08-26T20:20:00+00:00">2026.08.27 05:20 KST</time></div>
+        </article><article class="news-card" data-ticker="NVDA">
+          <div class="card-top"><span class="ticker">NVDA</span><span class="tag">AI</span></div>
+          <h3><a href="https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai" target="_blank" rel="noopener noreferrer">NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI</a></h3>
+          <div class="meta"><span>NVIDIA Newsroom 보도자료</span><time datetime="2026-08-25T15:00:00+00:00">2026.08.26 00:00 KST</time></div>
+        </article></div>
+  </main>
+  <footer><div class="footer-inner"><div><strong>Official Signal</strong><br>기업 공식 RSS 기반 수업용 MVP</div><div>기업 공식 발표는 독립 언론 분석이 아닙니다. 투자 조언으로 사용하지 마세요.<br><a href="data.json">JSON 데이터 보기</a></div></div></footer>
+  <script>
+    const buttons = document.querySelectorAll('[data-filter]');
+    const cards = document.querySelectorAll('.news-card');
+    buttons.forEach(button => button.addEventListener('click', () => {
+      buttons.forEach(item => item.classList.remove('active'));
+      button.classList.add('active');
+      const filter = button.dataset.filter;
+      cards.forEach(card => card.classList.toggle('hidden', filter !== 'ALL' && card.dataset.ticker !== filter));
+    }));
+  </script>
+</body>
+</html>

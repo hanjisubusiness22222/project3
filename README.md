@@ -1,31 +1,24 @@
-# 📈 삼성전자 & SK하이닉스 주식·뉴스 일일 브리핑 봇
+# 📈 국내·미국 주식 소식 자동화 사이트
 
-> **GitHub Actions**를 활용하여 매일 장 마감 후 삼성전자와 SK하이닉스의 시세 및 최신 주요 뉴스를 수집하여 브리핑 리포트를 자동 발행합니다.  
-> 💡 별도의 서버나 유료 API 없이 **100% 무료**로 30분 이내에 누구나 구축할 수 있습니다.  
-> 🌐 **실시간 웹 대시보드 홈페이지**: [https://hanjisubusiness22222.github.io/project3/](https://hanjisubusiness22222.github.io/project3/)
+> **GitHub Actions**를 활용해 국내 반도체 브리핑과 미국 기업 공식 소식을 각각 자동 갱신합니다.
+> 💡 별도의 서버나 유료 API 없이 **100% 무료**로 30분 이내에 누구나 구축할 수 있습니다.
+> 🇰🇷 **국내 브리핑**: [https://hanjisubusiness22222.github.io/project3/](https://hanjisubusiness22222.github.io/project3/)
+> 🇺🇸 **미국 공식 소식**: [https://hanjisubusiness22222.github.io/project3/us/](https://hanjisubusiness22222.github.io/project3/us/)
 
 ---
 
 ## 📋 실시간 자동 브리핑 대시보드
 <!-- STOCK_REPORT_START -->
 
-## 📊 [글로벌 주식 브리핑] 국장 반도체 & 미장 빅테크
-> 기준 일시: **2026-09-23 17:10:21 KST**  *(GitHub Actions 자동 갱신)*
+## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
+> 기준 일시: **2026-09-23 17:18:45 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
 | 종목명 | 코드 | 현재가 (원) | 전일대비 | 등락률 | 시가 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **285,500** | 🔴 ▲ 9,000 | 3.25% | 282,500 | 285,500 | 280,750 | 28,222,314 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
-| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,863,000** | 🔴 ▲ 23,000 | 1.25% | 1,891,000 | 1,910,000 | 1,836,000 | 4,283,051 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
-
-### 🇺🇸 미국 주식 (미장 빅테크)
-> *💡 종목명 또는 [확인] 링크를 클릭하면 Yahoo Finance 공식 시세 페이지로 연결됩니다.*
-| 종목명 | 티커 | 현재가 ($) | 전일대비 | 등락률 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**엔비디아**](https://finance.yahoo.com/quote/NVDA) | `NVDA` | **$228.87** | 🟢 ▲ $1.49 | +0.66% | $229.98 | $226.50 | 93,296,546 | [Yahoo Finance 바로가기 ↗](https://finance.yahoo.com/quote/NVDA) |
-| [**애플**](https://finance.yahoo.com/quote/AAPL) | `AAPL` | **$339.75** | 🟢 ▲ $0.77 | +0.23% | $345.34 | $338.75 | 40,599,377 | [Yahoo Finance 바로가기 ↗](https://finance.yahoo.com/quote/AAPL) |
-| [**마이크로소프트**](https://finance.yahoo.com/quote/MSFT) | `MSFT` | **$498.00** | 🔴 ▼ $3.61 | -0.72% | $508.50 | $493.65 | 20,867,650 | [Yahoo Finance 바로가기 ↗](https://finance.yahoo.com/quote/MSFT) |
+| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **285,000** | 🔴 ▲ 8,500 | 3.07% | 282,500 | 285,500 | 280,750 | 28,356,815 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
+| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,863,000** | 🔴 ▲ 23,000 | 1.25% | 1,891,000 | 1,910,000 | 1,836,000 | 4,292,228 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)

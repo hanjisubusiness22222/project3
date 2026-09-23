@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-09-23T17:19:53+09:00",
+  "sources": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "url": "https://blog.google/rss/",
+      "accent": "#4285f4",
+      "status": "ok",
+      "count": "8"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "url": "https://nvidianews.nvidia.com/cats/press_release.xml",
+      "accent": "#76b900",
+      "status": "ok",
+      "count": "8"
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "published_iso": "2026-09-22T23:50:00+00:00",
+      "published_kst": "2026.09.23 08:50"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Investing in global talent and AI literacy",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
+      "published_iso": "2026-09-22T16:00:00+00:00",
+      "published_kst": "2026.09.23 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Using AI to help local governments connect with constituents",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/",
+      "published_iso": "2026-09-22T14:00:00+00:00",
+      "published_kst": "2026.09.22 23:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Expanding free AI training for educators",
+      "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
+      "published_iso": "2026-09-21T16:00:00+00:00",
+      "published_kst": "2026.09.22 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
+      "published_iso": "2026-09-21T13:00:00+00:00",
+      "published_kst": "2026.09.21 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Premium materials and striking design set Googlebook apart",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
+      "published_iso": "2026-09-21T13:00:00+00:00",
+      "published_kst": "2026.09.21 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Googlebook: The laptop your Android phone has been waiting for",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+      "published_iso": "2026-09-21T13:00:00+00:00",
+      "published_kst": "2026.09.21 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Earn continuing education and college credits for AI educator training.",
+      "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+      "published_iso": "2026-09-18T16:00:00+00:00",
+      "published_kst": "2026.09.19 01:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "published_iso": "2026-09-14T13:00:00+00:00",
+      "published_kst": "2026.09.14 22:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+      "published_iso": "2026-09-10T09:00:00+00:00",
+      "published_kst": "2026.09.10 18:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "published_iso": "2026-09-10T00:00:00+00:00",
+      "published_kst": "2026.09.10 09:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "published_iso": "2026-08-31T12:30:00+00:00",
+      "published_kst": "2026.08.31 21:30"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Upcoming Event for Financial Community",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
+      "published_iso": "2026-08-27T21:00:00+00:00",
+      "published_kst": "2026.08.28 06:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
+      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "published_iso": "2026-08-26T21:05:00+00:00",
+      "published_kst": "2026.08.27 06:05"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "published_iso": "2026-08-26T20:20:00+00:00",
+      "published_kst": "2026.08.27 05:20"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "published_iso": "2026-08-25T15:00:00+00:00",
+      "published_kst": "2026.08.26 00:00"
+    }
+  ]
+}
