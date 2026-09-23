@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:19:53+09:00",
+  "generated_at": "2026-09-23T23:15:33+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+      "published_iso": "2026-09-23T08:30:00+00:00",
+      "published_kst": "2026.09.23 17:30"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
       "published_iso": "2026-09-21T13:00:00+00:00",
       "published_kst": "2026.09.21 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Earn continuing education and college credits for AI educator training.",
-      "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
-      "published_iso": "2026-09-18T16:00:00+00:00",
-      "published_kst": "2026.09.19 01:00"
     },
     {
       "ticker": "NVDA",
