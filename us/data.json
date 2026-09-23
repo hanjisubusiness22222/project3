@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:26:26+09:00",
+  "generated_at": "2026-09-24T07:19:33+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "published_iso": "2026-09-23T19:00:00+00:00",
+      "published_kst": "2026.09.24 04:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
       "published_iso": "2026-09-23T15:00:00+00:00",
       "published_kst": "2026.09.24 00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Here’s what was announced at Made On YouTube 2026.",
-      "url": "https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/",
-      "published_iso": "2026-09-23T14:30:00+00:00",
-      "published_kst": "2026.09.23 23:30"
     },
     {
       "ticker": "NVDA",
