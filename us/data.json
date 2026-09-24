@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:34:52+09:00",
+  "generated_at": "2026-09-25T03:26:44+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,51 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "5 ways to upgrade your study habits with Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
+      "published_iso": "2026-09-24T17:00:00+00:00",
+      "published_kst": "2026.09.25 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "5 Google Photos updates to make the most of summer memories.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
+      "published_iso": "2026-09-24T17:00:00+00:00",
+      "published_kst": "2026.09.25 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "published_iso": "2026-09-24T17:00:00+00:00",
+      "published_kst": "2026.09.25 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Turn discovery into action with September’s Demand Gen Drop.",
+      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "published_iso": "2026-09-24T16:00:00+00:00",
+      "published_kst": "2026.09.25 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "published_iso": "2026-09-24T15:30:00+00:00",
+      "published_kst": "2026.09.25 00:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Behind Project Suncatcher, our moonshot to put AI in space",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "published_iso": "2026-09-24T13:00:00+00:00",
@@ -48,51 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
       "published_iso": "2026-09-24T10:00:00+00:00",
       "published_kst": "2026.09.24 19:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
-      "published_iso": "2026-09-23T19:00:00+00:00",
-      "published_kst": "2026.09.24 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "published_iso": "2026-09-23T18:00:00+00:00",
-      "published_kst": "2026.09.24 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "6 ways Android Enterprise is evolving for the modern workforce",
-      "url": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
-      "published_iso": "2026-09-23T18:00:00+00:00",
-      "published_kst": "2026.09.24 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "6 new Google Flow Tools built by industry creatives",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
-      "published_iso": "2026-09-23T16:00:00+00:00",
-      "published_kst": "2026.09.24 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "A new wave of Connected Apps is rolling out to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
-      "published_iso": "2026-09-23T16:00:00+00:00",
-      "published_kst": "2026.09.24 01:00"
     },
     {
       "ticker": "NVDA",
