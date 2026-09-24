@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:38:00+09:00",
+  "generated_at": "2026-09-24T22:34:52+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "published_iso": "2026-09-24T13:00:00+00:00",
+      "published_kst": "2026.09.24 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+      "published_iso": "2026-09-24T12:00:00+00:00",
+      "published_kst": "2026.09.24 21:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Turning cultural artifacts into interactive learning companions",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+      "published_iso": "2026-09-24T10:00:00+00:00",
+      "published_kst": "2026.09.24 19:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
       "published_iso": "2026-09-23T16:00:00+00:00",
       "published_kst": "2026.09.24 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "MedGemma is helping global healthcare providers deliver better care",
-      "url": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/",
-      "published_iso": "2026-09-23T16:00:00+00:00",
-      "published_kst": "2026.09.24 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "published_iso": "2026-09-23T15:15:00+00:00",
-      "published_kst": "2026.09.24 00:15"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
-      "published_iso": "2026-09-23T15:00:00+00:00",
-      "published_kst": "2026.09.24 00:00"
     },
     {
       "ticker": "NVDA",
