@@ -11,7 +11,7 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-09-24 21:31:05 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-09-25 21:32:23 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
@@ -22,14 +22,14 @@
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [[속보] 삼성전자 반도체 직원 ‘성과급 6억’ 받나…이달 말 기준 공개](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wNU1Mbm94c1BWRUNWNW94eDFnVXNBVXV3X1RtMUlmYXlWaEN4WkJvVFZvaEpCb1pzSmlRc0ZpOC1tSDZQMWhVT2NNTjZkakNuSEtrTDJYTG9makFJV1NrcQ?oc=5) `[KBC광주방송]`
 - [삼성전자, 반도체 부문 성과급 세부안 이달 말 공개](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPS0lQWXdKLXpINFFncklCWUJLVGl5Ynl6cVI3RWRiZnNKNU1UbVV5bFE5Zmd2ODZhWVdrQ1VrNXJOOEZZbWhCVk41RUV1Q3Q0SEhORW9hbDE1TWdMNURrNXpUVEFndlE?oc=5) `[연합뉴스TV]`
-- ["연휴 끝나면 '6억 잭팟' 터지나"…삼성 반도체 직원들 '들썩'](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwZ1V0Z0RmczNPZm5fNUJ4VEJWNnBsT1pVeTR0blFNQ2k4a1RhR1ZYVmwzd2dUUE1Qc3F1d3o1SVdrbkt3SWdHUzVMTFZGalp1SEowMndmcmpMUQ?oc=5) `[한국경제]`
+- [반도체 품귀에…삼성전자, 추석 연휴에도 3교대 ‘풀 가동’](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RcGQyOUszRFRaVUkyeEo0cWNLazRzT1VKaUhSTWZhcVd1ODdtY0tFZEc3NHdvdmFIMnVBelhUMzB0YlhORVE?oc=5) `[v.daum.net]`
+- ["63만원 간다" VS "27만원 하락"…삼성전자 목표주가 온도차](https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjduMlJlQVVONWVHTTAtQ00xVThNOVFiVVVMWnFuWjdlZVp2d2t3eFZrME8zR1RJX0Y2UHpodGpfWXdvekhLcDFXenh2OHV4X3plNlA0clBFa09zUHFoaG1sX05ZWnV2RHFzbVNHYmI5UENWc3ljMFV2UDJzcHM4Tw?oc=5) `[edaily.co.kr]`
 
 #### 🔹 SK하이닉스 (`000660`)
+- [SK는 '넓은 부지'·삼성은 '속도전'…구체화하는 '호남 반도체 투자'](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRWZ1RnJDYkZQTjU4U3A3QXJXX1Y4dkdHOFhhOU1WTG5PdW9zcnNwalRkVzltNGplN3N4SUM5eGdUTjFfa080UG1Pek9ueEhPTnlzU1RmbUNhdlpzcmhwMA?oc=5) `[KBC광주방송]`
 - [SK하이닉스 주가, 오늘 급등하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTE90XzBTZUt1cnJWNVVXM2RrQ3UwRlJ3bklwZVdNR3FDTjhmX0NYRGptdEZ2cUVJRkY1cWJNeGtYM0NLc0pUT0tlWl9vaktpUFd5RzBxZFlfSXh6RHBmQmh0VFVoQ0RCMnVZcWNUeDdQdF9aZ1F1NG9V?oc=5) `[Investing.com 한국어]`
 - [SK하이닉스 ADR, 美 반도체지수 조기편입…개미 '최애' SOXL에도 담겼다](https://news.google.com/rss/articles/CBMicEFVX3lxTE1tanVmMWxzWkg0dnluTW9hVkhrQWpNcjl0M1VmbS1EME5pYVhOcE5ib2dMb1gtajB5dy1JZjJ6VE00ZVVrZ3JRQTFqbmRDeVJmNXpwWlpvTGNmQjgyc0s1eXdCQnQ1YnNUamlUSXBYZEE?oc=5) `[연합인포맥스]`
-- ['AI 속도조절론' 밀어낸 반도체…4분기 '삼전닉스' 다시 달릴까](https://news.google.com/rss/articles/CBMickFVX3lxTE9td0Zzb0s5aUtIdnppUXdNZ3BDOFNvSU5jVHF3SV9KSGdpYVJOZVdvSjFCeXd0UzgzTU15R3lUQnJtdUZpajBFSDRtM0tfLUVieExNWm1sV0pNZVlMaDY0V1NCa2tkNWhiYzhQdjVPVzdjQQ?oc=5) `[KB Think]`
 
 
 <!-- STOCK_REPORT_END -->
