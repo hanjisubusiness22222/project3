@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:32:35+09:00",
+  "generated_at": "2026-09-29T07:04:43+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published_iso": "2026-09-28T19:00:00+00:00",
+      "published_kst": "2026.09.29 04:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "published_iso": "2026-09-28T16:30:00+00:00",
+      "published_kst": "2026.09.29 01:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "See what 4 builders are making with Gemini 3.8 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+      "published_iso": "2026-09-28T16:00:00+00:00",
+      "published_kst": "2026.09.29 01:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
       "published_iso": "2026-09-24T17:00:00+00:00",
       "published_kst": "2026.09.25 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Turn discovery into action with September’s Demand Gen Drop.",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
-      "published_iso": "2026-09-24T16:00:00+00:00",
-      "published_kst": "2026.09.25 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
-      "published_iso": "2026-09-24T15:30:00+00:00",
-      "published_kst": "2026.09.25 00:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "published_iso": "2026-09-24T13:00:00+00:00",
-      "published_kst": "2026.09.24 22:00"
     },
     {
       "ticker": "NVDA",
