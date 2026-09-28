@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:58:56+09:00",
+  "generated_at": "2026-09-29T00:32:35+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "3 ways this grocer cooks for 200 guests with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
+      "published_iso": "2026-09-28T15:00:00+00:00",
+      "published_kst": "2026.09.29 00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Introducing Vertical Video Unification with Display & Video 360.",
+      "url": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
+      "published_iso": "2026-09-28T13:00:00+00:00",
+      "published_kst": "2026.09.28 22:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -77,22 +95,22 @@
       "published_kst": "2026.09.24 22:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
-      "published_iso": "2026-09-24T12:00:00+00:00",
-      "published_kst": "2026.09.24 21:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "published_iso": "2026-09-28T11:00:00+00:00",
+      "published_kst": "2026.09.28 20:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Turning cultural artifacts into interactive learning companions",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
-      "published_iso": "2026-09-24T10:00:00+00:00",
-      "published_kst": "2026.09.24 19:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "published_iso": "2026-09-28T09:00:00+00:00",
+      "published_kst": "2026.09.28 18:00"
     },
     {
       "ticker": "NVDA",
@@ -147,24 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
       "published_iso": "2026-08-26T21:05:00+00:00",
       "published_kst": "2026.08.27 06:05"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
-      "published_iso": "2026-08-26T20:20:00+00:00",
-      "published_kst": "2026.08.27 05:20"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "published_iso": "2026-08-25T15:00:00+00:00",
-      "published_kst": "2026.08.26 00:00"
     }
   ]
 }
