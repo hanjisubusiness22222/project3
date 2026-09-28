@@ -11,25 +11,25 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-09-25 21:32:23 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-09-28 23:54:53 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
 | 종목명 | 코드 | 현재가 (원) | 전일대비 | 등락률 | 시가 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **286,500** | 🔴 ▲ 10,000 | 3.62% | 282,500 | 286,500 | 280,750 | 30,566,764 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
-| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,863,000** | 🔴 ▲ 23,000 | 1.25% | 1,891,000 | 1,910,000 | 1,836,000 | 4,489,992 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
+| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **270,000** | 🔵 ▼ -15,500 | -5.43% | 283,500 | 287,000 | 268,500 | 35,912,467 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
+| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,761,000** | 🔵 ▼ -101,000 | -5.42% | 1,850,000 | 1,850,000 | 1,755,000 | 4,744,104 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [삼성전자, 반도체 부문 성과급 세부안 이달 말 공개](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPS0lQWXdKLXpINFFncklCWUJLVGl5Ynl6cVI3RWRiZnNKNU1UbVV5bFE5Zmd2ODZhWVdrQ1VrNXJOOEZZbWhCVk41RUV1Q3Q0SEhORW9hbDE1TWdMNURrNXpUVEFndlE?oc=5) `[연합뉴스TV]`
-- [반도체 품귀에…삼성전자, 추석 연휴에도 3교대 ‘풀 가동’](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RcGQyOUszRFRaVUkyeEo0cWNLazRzT1VKaUhSTWZhcVd1ODdtY0tFZEc3NHdvdmFIMnVBelhUMzB0YlhORVE?oc=5) `[v.daum.net]`
-- ["63만원 간다" VS "27만원 하락"…삼성전자 목표주가 온도차](https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjduMlJlQVVONWVHTTAtQ00xVThNOVFiVVVMWnFuWjdlZVp2d2t3eFZrME8zR1RJX0Y2UHpodGpfWXdvekhLcDFXenh2OHV4X3plNlA0clBFa09zUHFoaG1sX05ZWnV2RHFzbVNHYmI5UENWc3ljMFV2UDJzcHM4Tw?oc=5) `[edaily.co.kr]`
+- [삼성전자 주가가 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTFBROU9Pb2FRbzdFQUVnb21PNmxVTW5WWENzYVR6ZUYwZGpoMzdmSzEwalJvbUNUcXY0aGhEVmhkWWFjREpwWU9VSVBsUmNDa2pEemN5c1l5TWVxNnExdEIzQk91YkJUNlMxb2xUai1Gd3BUSFp0cjFn?oc=5) `[Investing.com 한국어]`
+- [삼전 ‘역대급 배당’ 막차에도 주가 하락…자사주 실탄도 곧 소진](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kRmNZOENHRExIUHN5elhteWZkZzVRd3dFTGFFNnYyMnlveTBnWkRiTjF3eHBTQURGVEo2WU04RHR3a0d6STB0VkwtdDFISlkzT3g2NGxXaUdKTk1jb0VfSXBR?oc=5) `[미주중앙일보]`
+- [“30조 배당 잔치도 소용없네” 배당 막차 탔다가 5% 폭락…삼성전자 주가 왜 이래? [투자360]](https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySEpRMGFaYm13XzV2VXlHQ0dWYUtDeUNWdGpicl9BdGlxLWFWdjdGZ1pLNFJaajlSdnpkODRzQ19tZU15NGtpLVZuT2xvejg?oc=5) `[v.daum.net]`
 
 #### 🔹 SK하이닉스 (`000660`)
-- [SK는 '넓은 부지'·삼성은 '속도전'…구체화하는 '호남 반도체 투자'](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRWZ1RnJDYkZQTjU4U3A3QXJXX1Y4dkdHOFhhOU1WTG5PdW9zcnNwalRkVzltNGplN3N4SUM5eGdUTjFfa080UG1Pek9ueEhPTnlzU1RmbUNhdlpzcmhwMA?oc=5) `[KBC광주방송]`
-- [SK하이닉스 주가, 오늘 급등하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTE90XzBTZUt1cnJWNVVXM2RrQ3UwRlJ3bklwZVdNR3FDTjhmX0NYRGptdEZ2cUVJRkY1cWJNeGtYM0NLc0pUT0tlWl9vaktpUFd5RzBxZFlfSXh6RHBmQmh0VFVoQ0RCMnVZcWNUeDdQdF9aZ1F1NG9V?oc=5) `[Investing.com 한국어]`
-- [SK하이닉스 ADR, 美 반도체지수 조기편입…개미 '최애' SOXL에도 담겼다](https://news.google.com/rss/articles/CBMicEFVX3lxTE1tanVmMWxzWkg0dnluTW9hVkhrQWpNcjl0M1VmbS1EME5pYVhOcE5ib2dMb1gtajB5dy1JZjJ6VE00ZVVrZ3JRQTFqbmRDeVJmNXpwWlpvTGNmQjgyc0s1eXdCQnQ1YnNUamlUSXBYZEE?oc=5) `[연합인포맥스]`
+- [SK하이닉스 주가, 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTFBQVTRIMEpyQlJabVBDd2NtTGQ4QWtFRjdPU254Wkg4UGZCQndyRnAtOW5wM0JjLURxTk92RHY4c2JmMEN6TlhWMVFiYTNETFFVa3BuMXJES1BnMEg2TER0UEt0QzliaFByM1M2NkY3TDd1cmthcUln?oc=5) `[Investing.com 한국어]`
+- [SK하이닉스, TSMC 기술 행사서 차세대 AI 메모리 공개](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMmRwTEY4c3NfV0xZbWRkZVFkeF9mV1BqNk5RcXN1VmpxejZFSlNiTlhQNzRQa3FwbHdkQ1BHa3VBY3dQRlJ3RjJlcEM5LU8zMWRSTi1haGVkYUxxblRmV3ZLRkJPWjA?oc=5) `[연합뉴스TV]`
+- [[클릭 e종목]"SK하이닉스, 솔리다임 우려 과도…주가에 업황 강세 미반영돼"](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ed3hxM0tkVlZzSThFOV9TSnlJQWJQN3g5R09vcFlCQVA3OVZnbzdFeEF5aURmbUFGeWtxWkhmM1J2SHBtMWFvSjBRZzE0X193WFRaU2xOU0hLSm5LQ3Z4OQ?oc=5) `[아시아경제]`
 
 
 <!-- STOCK_REPORT_END -->
