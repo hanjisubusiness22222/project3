@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:35:44+09:00",
+  "generated_at": "2026-09-30T00:55:36+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "published_iso": "2026-09-29T14:15:00+00:00",
+      "published_kst": "2026.09.29 23:15"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -82,15 +91,6 @@
       "source": "Google 공식 블로그",
       "title": "5 Google Photos updates to make the most of summer memories.",
       "url": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "published_kst": "2026.09.25 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Our new health and safety tools are live in the Google Health app.",
-      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
       "published_iso": "2026-09-24T17:00:00+00:00",
       "published_kst": "2026.09.25 02:00"
     },
