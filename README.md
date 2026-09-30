@@ -11,25 +11,25 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-09-29 22:42:30 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-09-30 22:19:03 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
 | 종목명 | 코드 | 현재가 (원) | 전일대비 | 등락률 | 시가 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **275,000** | 🔴 ▲ 5,000 | 1.85% | 265,500 | 276,000 | 265,000 | 24,668,889 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
-| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,790,000** | 🔴 ▲ 22,000 | 1.24% | 1,757,000 | 1,791,000 | 1,736,000 | 4,037,596 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
+| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **269,500** | 🔵 ▼ -3,000 | -1.10% | 274,000 | 277,000 | 267,500 | 21,872,636 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
+| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,783,000** | 🔴 ▲ 18,000 | 1.02% | 1,788,000 | 1,824,000 | 1,773,000 | 3,903,544 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
 - [삼성전자 주가가 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTFBROU9Pb2FRbzdFQUVnb21PNmxVTW5WWENzYVR6ZUYwZGpoMzdmSzEwalJvbUNUcXY0aGhEVmhkWWFjREpwWU9VSVBsUmNDa2pEemN5c1l5TWVxNnExdEIzQk91YkJUNlMxb2xUai1Gd3BUSFp0cjFn?oc=5) `[Investing.com 한국어]`
-- ["30조가 끝 아니다, 75조 더"…삼성전자 주가 버틴 '진짜 이유'](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTExmSjNHcUhHNmtfVkpfUlRNUk9vWFBtWThxVkZIR2FJaHZrVzJtcTdZZ2hhUlltMFltellTV1ZHaUd1OEU2RUFEZThoRkNWb0hzd2NiVkhMZw?oc=5) `[한국경제]`
-- [“AI로 8100조 벌어야 본전”…삼성전자 주가 괜찮을까 [이슈+]](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN1dRWEVyUENjQTBuTW9kWmNHVVA5cHhwNnphMzFJQm1fZklWSG1mcTE3c0Q4ZktGZHRlelNRNFpYc1YzVGVOTzE4NVhRaFEtY1Y4R2ZNR3huZDg?oc=5) `[에너지경제신문]`
+- [63만원 vs 27만원… ‘대장주’ 삼성전자 주가 향방은](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vQkliT0ljWWtFUkVKWTdzNHpNeWVnNnowdjZTdjUtZUxkc0gwY2c1Y0ZXaHVIVUlSNlVZQmJ2LUxRRk1vWnc?oc=5) `[v.daum.net]`
+- [삼성전자, ‘에이전틱 시프트’ 주제로 삼성 AI 포럼 2026 개최](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTdYLUswdDB2RmJCLVMzWkd1VkFyM2FGcjdwaTRuU1pFWnJYNDNnMHZ1RVM2cmRmU2VnTkFVd0ladVFzVjN4d0NIVzZYam5VR0pVUEVxeVBhWEJGYlRPQmo1RVVlaVV3UjFZNzlYMEREU1dKUUVwWDRMQi1QS21FQmJ0V0ZBa2I1YzkyU3BraXk2TF9USW9fNUE0VF9PZUs2Z19IQS1XUTBIVmdpSkFJb1U4Ujg2UEpRTzAxSXNIT1g2UmJiUWlqUHMwOVVqYWJT?oc=5) `[Samsung Semiconductor]`
 
 #### 🔹 SK하이닉스 (`000660`)
+- [초라한 주주환원에 중복상장 '포비아'까지…SK하닉 주가 고점서 40% '뚝'](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR2xaTHI4TUQwdGhpLVpkX0llZTZ0b1ZjSGYxNDM1bEotT3JfTkFhNHltUmZsUUVFWk1jeEZHeDNXRU5QeFl2bEUzTWhJU28?oc=5) `[v.daum.net]`
+- ["삼성전자 SK하이닉스 주가 빠르게 반등 어렵다" 영국 FT 전망, 금리 상승에 역풍 커져](https://news.google.com/rss/articles/CBMic0FVX3lxTFAwRzFGbjdvclBnTWdVN0g3cjI3cHRZS1hzY0pYeDFmbm5qNWQyUEc2bWFDdFI4T2NKV1VHemFVc1JORUJhdXBKX0YwR2d5NHF3YWptcWk0amdHZFlvTnJUVldrZE5QR3QtNVBOc0FaOUUtQzA?oc=5) `[businesspost.co.kr]`
 - [3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5) `[매일경제]`
-- [누리호, 내달 7일 SK하이닉스 반도체 싣고 5차 발사](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWmk0ZU5odm1McGFhQ2IzN1BnODNpSXRjU0xjbnVtM0Nva28wZXE4OXdJZUl0WnV6YWhhY2Nhdm83OXpVNmUwQ1NfTWp5R3RiTnMtVFNFY2JuOTg?oc=5) `[에너지경제신문]`
-- [SK하이닉스, 윈팩에 패키징 외주 다시 맡긴다](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGNGhDNXNFRnRER1F3b0tiSFVmM01vWkozdUg3em9hRUd1TzFXUVdHU0k1U0VGOXJ0eWVzSFVGSDZmWlgxZTdTbko3dUpVM0d1RXZGNUJfRlFUb2ZSWVpzdjFQaTBFQQ?oc=5) `[디일렉]`
 
 
 <!-- STOCK_REPORT_END -->
