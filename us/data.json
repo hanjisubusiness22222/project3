@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:22:44+09:00",
+  "generated_at": "2026-10-02T04:34:22+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "published_iso": "2026-10-01T20:30:00+00:00",
+      "published_kst": "2026.10.02 05:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "published_iso": "2026-10-01T16:00:00+00:00",
+      "published_kst": "2026.10.02 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+      "published_iso": "2026-10-01T16:00:00+00:00",
+      "published_kst": "2026.10.02 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "url": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "published_iso": "2026-10-01T13:00:00+00:00",
+      "published_kst": "2026.10.01 22:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -57,42 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
       "published_iso": "2026-09-30T18:15:00+00:00",
       "published_kst": "2026.10.01 03:15"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Supporting AI readiness in higher education",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
-      "published_iso": "2026-09-30T16:43:00+00:00",
-      "published_kst": "2026.10.01 01:43"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Let skills in Gemini tackle your most repetitive tasks",
-      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
-      "published_iso": "2026-09-30T16:00:00+00:00",
-      "published_kst": "2026.10.01 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
-      "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
-      "published_iso": "2026-09-30T16:00:00+00:00",
-      "published_kst": "2026.10.01 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Waze rolls out new features to support Breast Cancer Awareness Month.",
-      "url": "https://blog.google/waze/breast-cancer-awareness-month/",
-      "published_iso": "2026-09-30T16:00:00+00:00",
-      "published_kst": "2026.10.01 01:00"
     },
     {
       "ticker": "NVDA",
