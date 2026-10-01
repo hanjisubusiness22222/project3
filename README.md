@@ -11,25 +11,25 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-09-30 22:19:03 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-10-01 23:08:41 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
 | 종목명 | 코드 | 현재가 (원) | 전일대비 | 등락률 | 시가 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **269,500** | 🔵 ▼ -3,000 | -1.10% | 274,000 | 277,000 | 267,500 | 21,872,636 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
-| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,783,000** | 🔴 ▲ 18,000 | 1.02% | 1,788,000 | 1,824,000 | 1,773,000 | 3,903,544 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
+| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **274,500** | 🔴 ▲ 6,000 | 2.23% | 271,500 | 276,000 | 264,500 | 20,684,626 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
+| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,828,000** | 🔴 ▲ 52,000 | 2.93% | 1,780,000 | 1,833,000 | 1,749,000 | 3,274,266 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [삼성전자 주가가 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTFBROU9Pb2FRbzdFQUVnb21PNmxVTW5WWENzYVR6ZUYwZGpoMzdmSzEwalJvbUNUcXY0aGhEVmhkWWFjREpwWU9VSVBsUmNDa2pEemN5c1l5TWVxNnExdEIzQk91YkJUNlMxb2xUai1Gd3BUSFp0cjFn?oc=5) `[Investing.com 한국어]`
-- [63만원 vs 27만원… ‘대장주’ 삼성전자 주가 향방은](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vQkliT0ljWWtFUkVKWTdzNHpNeWVnNnowdjZTdjUtZUxkc0gwY2c1Y0ZXaHVIVUlSNlVZQmJ2LUxRRk1vWnc?oc=5) `[v.daum.net]`
-- [삼성전자, ‘에이전틱 시프트’ 주제로 삼성 AI 포럼 2026 개최](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTdYLUswdDB2RmJCLVMzWkd1VkFyM2FGcjdwaTRuU1pFWnJYNDNnMHZ1RVM2cmRmU2VnTkFVd0ladVFzVjN4d0NIVzZYam5VR0pVUEVxeVBhWEJGYlRPQmo1RVVlaVV3UjFZNzlYMEREU1dKUUVwWDRMQi1QS21FQmJ0V0ZBa2I1YzkyU3BraXk2TF9USW9fNUE0VF9PZUs2Z19IQS1XUTBIVmdpSkFJb1U4Ujg2UEpRTzAxSXNIT1g2UmJiUWlqUHMwOVVqYWJT?oc=5) `[Samsung Semiconductor]`
+- [[속보] 자회사 반도체 기밀 빼돌린 전직 삼성전자 직원 2명 구속](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81ei1nWHV0WTJEalNLOUN0Z0hVSjNHOVdUUkxPeHhDdGRrSnFCZENZNFg3S3ExMTQybnVjRW9wNFJyRVZMd3Zob1dDUHhzVXFqZi1fY1NGZFhBMDFGdjRRWkNFSUpTaW8?oc=5) `[강원도민일보]`
+- [삼성전자 반도체 장비 기술 빼간 前 삼성 직원 구속](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWjNDNHhTMDZGaExxOHVsaDdhZEo4NENfNzVydXdvSHNLczNZV3I4YVJaQ3lhV1M4c3NVQkI5bnlsVmUwX20yb0dGVVZ0RlVPNEHSAVNBVV95cUxPSXZ4eGV1R1RYQUVwaWRlZWlzXzBSVjg2Rkg4QzdjaWNfSG1lWTU2bFdRTW5FSnY3VUpwM0FJYnVGZTVRMWNod0gzcmZDMjNpNjgxWQ?oc=5) `[서울경제]`
+- [삼성전자 주가 전망 2026: 증권가 목표주가 27만 ~ 67만 원, 시각차가 벌어진 이유](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEZBaDJhYU1lSV81ZHpzQVhwS3kzUFFSZV9WS1hqdzdQYWc0NU9aVDFsV1Rwb0h4aVBldG90UHRxX2lqNDJJR2YwYnhweHAzZ05NMkxYaHZMSk9WVnJWakhuWFZMdC1VbVhPdHZpb2UwVzlua00yTE13ZTVYeDc0allkWVNXaGZEdWxPeEhn?oc=5) `[Mitrade]`
 
 #### 🔹 SK하이닉스 (`000660`)
-- [초라한 주주환원에 중복상장 '포비아'까지…SK하닉 주가 고점서 40% '뚝'](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR2xaTHI4TUQwdGhpLVpkX0llZTZ0b1ZjSGYxNDM1bEotT3JfTkFhNHltUmZsUUVFWk1jeEZHeDNXRU5QeFl2bEUzTWhJU28?oc=5) `[v.daum.net]`
-- ["삼성전자 SK하이닉스 주가 빠르게 반등 어렵다" 영국 FT 전망, 금리 상승에 역풍 커져](https://news.google.com/rss/articles/CBMic0FVX3lxTFAwRzFGbjdvclBnTWdVN0g3cjI3cHRZS1hzY0pYeDFmbm5qNWQyUEc2bWFDdFI4T2NKV1VHemFVc1JORUJhdXBKX0YwR2d5NHF3YWptcWk0amdHZFlvTnJUVldrZE5QR3QtNVBOc0FaOUUtQzA?oc=5) `[businesspost.co.kr]`
-- [3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5) `[매일경제]`
+- [한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5) `[연합뉴스TV]`
+- [한전·SK하이닉스, 반도체 산단 안정적 전력공급 위해 맞손](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkedIBYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkeQ?oc=5) `[연합뉴스]`
+- [SK하이닉스 "솔리다임 상장 미확정"](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oOXhvbjVxT3pMd3V1ZnJsdVhVX0NrdXhMajdGMENLc1N2VWI1Skt4Y3d0d1pTSTJ1a0tQUWdNWVRyTTZqakFKRjJEeXpYWi0yWHZtRDlCUXVITzF0XzhRTHZVRnFsQQ?oc=5) `[디일렉]`
 
 
 <!-- STOCK_REPORT_END -->
