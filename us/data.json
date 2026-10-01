@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:34:22+09:00",
+  "generated_at": "2026-10-02T08:55:06+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "published_iso": "2026-10-01T23:30:00+00:00",
+      "published_kst": "2026.10.02 08:30"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
       "published_iso": "2026-09-30T18:34:00+00:00",
       "published_kst": "2026.10.01 03:34"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "More partners are joining the Alliance for America’s Skilled Trades.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
-      "published_iso": "2026-09-30T18:15:00+00:00",
-      "published_kst": "2026.10.01 03:15"
     },
     {
       "ticker": "NVDA",
