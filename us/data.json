@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:41:35+09:00",
+  "generated_at": "2026-10-03T03:27:23+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published_iso": "2026-10-02T15:00:00+00:00",
+      "published_kst": "2026.10.03 00:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "published_iso": "2026-09-30T20:00:00+00:00",
       "published_kst": "2026.10.01 05:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Google is supporting water resilience in Chile.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
-      "published_iso": "2026-09-30T18:34:00+00:00",
-      "published_kst": "2026.10.01 03:34"
     },
     {
       "ticker": "NVDA",
