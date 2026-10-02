@@ -11,25 +11,25 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-10-01 23:08:41 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-10-02 22:32:16 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
 | 종목명 | 코드 | 현재가 (원) | 전일대비 | 등락률 | 시가 | 고가 | 저가 | 거래량 | 실제시세 검증링크 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **274,500** | 🔴 ▲ 6,000 | 2.23% | 271,500 | 276,000 | 264,500 | 20,684,626 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
-| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,828,000** | 🔴 ▲ 52,000 | 2.93% | 1,780,000 | 1,833,000 | 1,749,000 | 3,274,266 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
+| [**삼성전자**](https://finance.naver.com/item/main.naver?code=005930) | `005930` | **276,000** | ⚪ - 0 | 0.00% | 275,500 | 277,000 | 271,500 | 16,915,343 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=005930) |
+| [**SK하이닉스**](https://finance.naver.com/item/main.naver?code=000660) | `000660` | **1,842,000** | 🔴 ▲ 9,000 | 0.49% | 1,840,000 | 1,855,000 | 1,825,000 | 2,893,258 | [네이버증권 바로가기 ↗](https://finance.naver.com/item/main.naver?code=000660) |
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [[속보] 자회사 반도체 기밀 빼돌린 전직 삼성전자 직원 2명 구속](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81ei1nWHV0WTJEalNLOUN0Z0hVSjNHOVdUUkxPeHhDdGRrSnFCZENZNFg3S3ExMTQybnVjRW9wNFJyRVZMd3Zob1dDUHhzVXFqZi1fY1NGZFhBMDFGdjRRWkNFSUpTaW8?oc=5) `[강원도민일보]`
-- [삼성전자 반도체 장비 기술 빼간 前 삼성 직원 구속](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWjNDNHhTMDZGaExxOHVsaDdhZEo4NENfNzVydXdvSHNLczNZV3I4YVJaQ3lhV1M4c3NVQkI5bnlsVmUwX20yb0dGVVZ0RlVPNEHSAVNBVV95cUxPSXZ4eGV1R1RYQUVwaWRlZWlzXzBSVjg2Rkg4QzdjaWNfSG1lWTU2bFdRTW5FSnY3VUpwM0FJYnVGZTVRMWNod0gzcmZDMjNpNjgxWQ?oc=5) `[서울경제]`
-- [삼성전자 주가 전망 2026: 증권가 목표주가 27만 ~ 67만 원, 시각차가 벌어진 이유](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEZBaDJhYU1lSV81ZHpzQVhwS3kzUFFSZV9WS1hqdzdQYWc0NU9aVDFsV1Rwb0h4aVBldG90UHRxX2lqNDJJR2YwYnhweHAzZ05NMkxYaHZMSk9WVnJWakhuWFZMdC1VbVhPdHZpb2UwVzlua00yTE13ZTVYeDc0allkWVNXaGZEdWxPeEhn?oc=5) `[Mitrade]`
+- [삼성전자 자사주 다 샀는데...삼전닉스 주가, 이제부터가 문제? [몇층이세요]](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QbXF5aldTbGtnUEVxaDJSY1RBSEdKUHZaQ29WMk5CWVk3TDc2eHdyNGpVTS1ISzJfUkl6dUxnUHo2ckdMZUp4MW1iYmd6M0JPYU1IQ19sOXBoT29CNUE?oc=5) `[YTN]`
+- [“삼성전자 주가 너무 싸…3분기 영업익 100조 거뜬” IBK證](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTkpYNnhKYjlJTy1JWnBlQ25pWndVYzZzME03MU0wcXI4Zk5NQzJrR09lWmpCY3dPV3NpWklQWDhlSDk3V0pEQm94TlpMT3Bq?oc=5) `[문화일보]`
+- [삼성전자, 엑시노스 2700 물량 10% 늘려 양산 돌입](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwUFljRXVfcGpmRmpkTFB2SllWUDctNkFIb0JNUTItQjRmUnMxbGxNSXA0U3A2V3E4QVZCQ2k0bDRrS2VHNnYxWjJDZmkwN09YYTlfOTdVWFFkbmV2T0xvcjRTTUtpQQ?oc=5) `[디일렉]`
 
 #### 🔹 SK하이닉스 (`000660`)
-- [한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5) `[연합뉴스TV]`
-- [한전·SK하이닉스, 반도체 산단 안정적 전력공급 위해 맞손](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkedIBYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkeQ?oc=5) `[연합뉴스]`
-- [SK하이닉스 "솔리다임 상장 미확정"](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oOXhvbjVxT3pMd3V1ZnJsdVhVX0NrdXhMajdGMENLc1N2VWI1Skt4Y3d0d1pTSTJ1a0tQUWdNWVRyTTZqakFKRjJEeXpYWi0yWHZtRDlCUXVITzF0XzhRTHZVRnFsQQ?oc=5) `[디일렉]`
+- [SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호'](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNkRud3JLR0ZYaE1RVFZtSTVzTGRlRXU0WWJKSF83T0dubFQ2M2NsOHpwMXZSR2NObXFwZUx5bjFoeDQ4OG0tZ1llckItUFc4emJfNjkzZzF6b3UxZHdoVzFPUXN3UQ?oc=5) `[디일렉]`
+- [한전-SK하이닉스, 반도체 전력공급 협력…용인에 5.5GW 전력망 구축](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aQWxCcHlOM0hhMEhaZDNQNXRETzZsUjhqSGlIRTRiemlVWUsxTkJJLUVIX2ZUSFpTUUhmU0V2bXpELS1DRzdMV3p5QlZQSU9XX0tNbEVzVGhmRHpXS0c2YzU5ZGF4dw?oc=5) `[인사이트N파워]`
+- [3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5) `[매일경제]`
 
 
 <!-- STOCK_REPORT_END -->
