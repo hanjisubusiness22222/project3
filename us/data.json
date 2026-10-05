@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:58:26+09:00",
+  "generated_at": "2026-10-05T16:07:03+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Making AI training available to UK and Ireland educators",
+      "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
+      "published_iso": "2026-10-05T07:00:00+00:00",
+      "published_kst": "2026.10.05 16:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
       "published_iso": "2026-09-30T21:30:00+00:00",
       "published_kst": "2026.10.01 06:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "published_iso": "2026-09-30T20:00:00+00:00",
-      "published_kst": "2026.10.01 05:00"
     },
     {
       "ticker": "NVDA",
