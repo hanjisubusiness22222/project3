@@ -11,7 +11,7 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-10-02 22:32:16 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-10-06 00:31:21 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
@@ -22,14 +22,14 @@
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [삼성전자 자사주 다 샀는데...삼전닉스 주가, 이제부터가 문제? [몇층이세요]](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QbXF5aldTbGtnUEVxaDJSY1RBSEdKUHZaQ29WMk5CWVk3TDc2eHdyNGpVTS1ISzJfUkl6dUxnUHo2ckdMZUp4MW1iYmd6M0JPYU1IQ19sOXBoT29CNUE?oc=5) `[YTN]`
-- [“삼성전자 주가 너무 싸…3분기 영업익 100조 거뜬” IBK證](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTkpYNnhKYjlJTy1JWnBlQ25pWndVYzZzME03MU0wcXI4Zk5NQzJrR09lWmpCY3dPV3NpWklQWDhlSDk3V0pEQm94TlpMT3Bq?oc=5) `[문화일보]`
-- [삼성전자, 엑시노스 2700 물량 10% 늘려 양산 돌입](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwUFljRXVfcGpmRmpkTFB2SllWUDctNkFIb0JNUTItQjRmUnMxbGxNSXA0U3A2V3E4QVZCQ2k0bDRrS2VHNnYxWjJDZmkwN09YYTlfOTdVWFFkbmV2T0xvcjRTTUtpQQ?oc=5) `[디일렉]`
+- [삼성전자, 용인 과학축제서 반도체 국가산단 청사진 공개](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QbnVTQVBZaEpTTkxTMVEtS1JXLUw3X1VEd1JmYWlRRDJ2SFl0UE5Xb2N0YzlaU1Q4UU5fVWFnT3VuQzJUdGZiUFFCeVYyOEpLaGpRZ0hUZXU1Y1ZuQ0NGX0wtRWozZw?oc=5) `[디일렉]`
+- [삼성전자 10월 8일 잠정실적 발표 : 영업이익 100조 넘을까? 주가 전망](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDV2TzZ4WGk4dDUybm5RenBNRFNURll3eV9tX1FDU0tRSGVWeW9SRGFkbVVkeXBHUnhPaDlQMGpNUEliWnE3V3ZXS3lQbElXNWg4NEc1LTVtLWtkODdfQmRYcFhuOFVjOHRVQnZVRW9TSEJhX3JNVXRNeHVQZWI5RVMyWQ?oc=5) `[네이버 프리미엄콘텐츠]`
+- [삼성전자 자사주 다 샀는데...삼전닉스 주가, 이제부터가 문제? [몇층이세요]](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QbXF5aldTbGtnUEVxaDJSY1RBSEdKUHZaQ29WMk5CWVk3TDc2eHdyNGpVTS1ISzJfUkl6dUxnUHo2ckdMZUp4MW1iYmd6M0JPYU1IQ19sOXBoT29CNUE?oc=5) `[ytn.co.kr]`
 
 #### 🔹 SK하이닉스 (`000660`)
-- [SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호'](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNkRud3JLR0ZYaE1RVFZtSTVzTGRlRXU0WWJKSF83T0dubFQ2M2NsOHpwMXZSR2NObXFwZUx5bjFoeDQ4OG0tZ1llckItUFc4emJfNjkzZzF6b3UxZHdoVzFPUXN3UQ?oc=5) `[디일렉]`
-- [한전-SK하이닉스, 반도체 전력공급 협력…용인에 5.5GW 전력망 구축](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aQWxCcHlOM0hhMEhaZDNQNXRETzZsUjhqSGlIRTRiemlVWUsxTkJJLUVIX2ZUSFpTUUhmU0V2bXpELS1DRzdMV3p5QlZQSU9XX0tNbEVzVGhmRHpXS0c2YzU5ZGF4dw?oc=5) `[인사이트N파워]`
-- [3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5) `[매일경제]`
+- [경기도, 용인 SK하이닉스 방류 대비 수질 조사 결과 기자회견](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3A3b1M4UUFiUVFkNXZLdU9mNW8tRGZnNENES1VmSEpHeFhFWW11bllBTXUxVzVuX24xWkJEU0ozRWk5b1dLYzV2YTlIWkxxMFdWZ2NRc2tlWUo1SDA1ZTNSWm5sQlBvUktNQm9aT3VwbHZoaHpDUEJkR0xQLUdWV1B5LUJwaE9EWkU1VzI3cTg1WFBOYXpPblVuVVgzdkJ0Z2ZZWGV5R0duaG9MNVh4NjdB?oc=5) `[경기도뉴스포털]`
+- [경기도, 용인 SK하이닉스 가동 전 수질 선제 점검](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VDRYTzJoN1NBN0FZeTNtN3pxdE9meEN4VHNPU0ozZy1XV19NaWVheG5JeUs1Tm9MdFN2RHlRWm9Lb3dIWE9SSHpmNG8wUjk3cy1pUG03X1I4Mmc?oc=5) `[ekn.kr]`
+- [반도체 방류수에 기준 없는 염소·황산… 경기도, SK하이닉스 가동 전 관리 강화](https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZVBEZG9nLWl4dDJYT25PZGQ5aG1FaHBwdDFtQ3BqRGFSVmdMOTlJcnNlVExKZk1HbFQ3NDB4Y2EwYVAxcEV4S3F1R0o5dTBiZkhhVGdzcENNdW12S1U5ZVRRamlEb0s3SXc?oc=5) `[천지일보]`
 
 
 <!-- STOCK_REPORT_END -->
