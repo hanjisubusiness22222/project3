@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:23:49+09:00",
+  "generated_at": "2026-10-07T02:13:50+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,60 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "published_iso": "2026-10-06T16:00:00+00:00",
+      "published_kst": "2026.10.07 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "published_iso": "2026-10-06T16:00:00+00:00",
+      "published_kst": "2026.10.07 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Making global public health more proactive with Google Earth AI",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+      "published_iso": "2026-10-06T15:00:00+00:00",
+      "published_kst": "2026.10.07 00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+      "published_iso": "2026-10-06T14:00:00+00:00",
+      "published_kst": "2026.10.06 23:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Meet the artist who built a giant spider for a virtual world",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+      "published_iso": "2026-10-06T13:30:00+00:00",
+      "published_kst": "2026.10.06 22:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Why we're backing America's existing nuclear plants",
+      "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+      "published_iso": "2026-10-06T10:00:00+00:00",
+      "published_kst": "2026.10.06 19:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "I use technology to give students a voice and become critical digital citizens.",
       "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
       "published_iso": "2026-10-05T16:00:00+00:00",
@@ -35,62 +89,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
-      "url": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Here’s how I use technology to bring science to life in my classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "World Teachers’ Day 2026",
-      "url": "https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "I teach my students that in the AI era, critical thinking comes first.",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "My students use Gemini to brainstorm creative ideas.",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "url": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
+      "title": "Gemini helps me give a voice to students who cannot write.",
+      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
       "published_iso": "2026-10-05T16:00:00+00:00",
       "published_kst": "2026.10.06 01:00"
     },
