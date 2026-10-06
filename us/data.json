@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:13:50+09:00",
+  "generated_at": "2026-10-07T06:41:13+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+      "published_iso": "2026-10-06T18:00:00+00:00",
+      "published_kst": "2026.10.07 03:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -82,15 +91,6 @@
       "source": "Google 공식 블로그",
       "title": "I use technology to give students a voice and become critical digital citizens.",
       "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini helps me give a voice to students who cannot write.",
-      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
       "published_iso": "2026-10-05T16:00:00+00:00",
       "published_kst": "2026.10.06 01:00"
     },
