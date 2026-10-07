@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:44:01+09:00",
+  "generated_at": "2026-10-08T01:33:40+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,24 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "published_iso": "2026-10-07T14:00:00+00:00",
+      "published_kst": "2026.10.07 23:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "published_iso": "2026-10-07T12:00:00+00:00",
+      "published_kst": "2026.10.07 21:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
       "published_iso": "2026-10-06T18:00:00+00:00",
@@ -35,8 +53,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "published_iso": "2026-10-06T16:00:00+00:00",
       "published_kst": "2026.10.07 01:00"
     },
@@ -44,8 +62,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
       "published_iso": "2026-10-06T16:00:00+00:00",
       "published_kst": "2026.10.07 01:00"
     },
@@ -75,24 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
       "published_iso": "2026-10-06T13:30:00+00:00",
       "published_kst": "2026.10.06 22:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Why we're backing America's existing nuclear plants",
-      "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
-      "published_iso": "2026-10-06T10:00:00+00:00",
-      "published_kst": "2026.10.06 19:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "I use technology to give students a voice and become critical digital citizens.",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
-      "published_iso": "2026-10-05T16:00:00+00:00",
-      "published_kst": "2026.10.06 01:00"
     },
     {
       "ticker": "NVDA",
