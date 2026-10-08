@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:02:21+09:00",
+  "generated_at": "2026-10-09T01:32:45+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
+      "published_iso": "2026-10-08T15:30:00+00:00",
+      "published_kst": "2026.10.09 00:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Sign in quickly and securely with passkeys.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
+      "published_iso": "2026-10-08T15:00:00+00:00",
+      "published_kst": "2026.10.09 00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Cloud introduces the Gemini agent.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "published_iso": "2026-10-08T12:05:00+00:00",
+      "published_kst": "2026.10.08 21:05"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "published_kst": "2026.10.08 21:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "published_kst": "2026.10.08 21:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -50,49 +95,13 @@
       "published_kst": "2026.10.07 21:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
-      "published_iso": "2026-10-06T18:00:00+00:00",
-      "published_kst": "2026.10.07 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-      "published_iso": "2026-10-06T16:00:00+00:00",
-      "published_kst": "2026.10.07 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "published_iso": "2026-10-06T16:00:00+00:00",
-      "published_kst": "2026.10.07 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Making global public health more proactive with Google Earth AI",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
-      "published_iso": "2026-10-06T15:00:00+00:00",
-      "published_kst": "2026.10.07 00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
-      "published_iso": "2026-10-06T14:00:00+00:00",
-      "published_kst": "2026.10.06 23:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "published_iso": "2026-10-08T14:31:00+00:00",
+      "published_kst": "2026.10.08 23:31"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
       "published_iso": "2026-08-27T21:00:00+00:00",
       "published_kst": "2026.08.28 06:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
-      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "published_iso": "2026-08-26T21:05:00+00:00",
-      "published_kst": "2026.08.27 06:05"
     }
   ]
 }
