@@ -11,7 +11,7 @@
 <!-- STOCK_REPORT_START -->
 
 ## 📊 [국내 반도체 브리핑] 삼성전자 & SK하이닉스
-> 기준 일시: **2026-10-08 23:20:54 KST**  *(GitHub Actions 자동 갱신)*
+> 기준 일시: **2026-10-09 23:06:00 KST**  *(GitHub Actions 자동 갱신)*
 
 ### 🇰🇷 국내 주식 (국장: 삼성전자 & SK하이닉스)
 > *💡 종목명 또는 [확인] 링크를 클릭하면 네이버 증권 공식 시세 페이지에서 실시간 가격을 바로 대조 검증할 수 있습니다.*
@@ -22,14 +22,14 @@
 
 ### 📰 핵심 뉴스 피드
 #### 🔹 삼성전자 (`005930`)
-- [‘악! 내 주식 왜 이래’…107조 벌고도 주가 하락한 삼성전자, 왜?](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xOE5oeEtRQVVHRE5BdkYwZXJxdjZIS19hNmFrQTJXaEhuZWljTTZzLU1YWEJBRnZEMi04OVR2LU03SVBmSTUtbVZram84Wkc2?oc=5) `[문화일보]`
-- [‘영업익 100조 시대’ 연 삼전... 주가는 하락, 대체 무슨 일?](https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmw3Z3ZmZ19rMDhYZ3RlTjY4Y1Nka0U4UWdyVTFsZWRQbW9uLXQyeDNGLVJXcW5uZjlHUjJubFZTTnJzdVVUd05FTHZQcVpTQTM2VXZ0TGVXcDk4eWs3ZFdVZWtVS3EwT0R2VmNINlJ0RWlkT0Q5VHQ5bVFjZG10Zw?oc=5) `[조선일보]`
-- ['100조 클럽' 삼성전자, 주가는 약세 … 증권가선 "아직 저평가"](https://news.google.com/rss/articles/CBMiUkFVX3lxTE12NHhzcW1YeGhHLTBUNUZKTGYwZndJTHhHWjZTUUMzTEx4Wl9NMjY2T0VJbXpQSDJyMVBscGlUdlRhdFlhUy1fUVBVZGJHTEFlUEE?oc=5) `[매일경제 마켓]`
+- [삼성전자 반도체 특별성과급 내년 3월말경 지급…전액 자사주](https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSjhEV3B2WFgzQzRKYi1jSy1YSkxMaFExSkVnV3piNm9xdFFLbktZTXNBSE1sVURDS2RQR0FYemtqbVdHM2M0UlRwQ0FlU2x5WjYwYVhuR2FaODlzSFVzTlhRWFNGZDBGVF81LW8xcEM?oc=5) `[연합인포맥스]`
+- [삼성전자, 사상 최초 분기 영업이익 ’100조 시대' 연다...주가 반등할까](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU5Ddm1pRllIZ29jT016WnIyOG85X282RC0wUEotX3pvUElVT2tUTlIxb2tCUmliUmQ2bkE2SXVwRF82YzBxazc5RjBLQUlBaTA2Y2F5aFZVZEJ1Y0JaOU02UVJXbkhjaWg3NzhKVmZacmVVc3FuQWlBM3BGamR3Mw?oc=5) `[조선일보]`
+- [[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSVdKbkE3UkVEbzA0OS13TXhaTElKTkwyOXJTUGJQbmpWMlhIYTBuNnpyc3BQWTE4T3RLNW5uZlA3WVpyYUIteUQ0cjluM2dkeWFET0YzRDhVUQ?oc=5) `[한국경제]`
 
 #### 🔹 SK하이닉스 (`000660`)
+- [반도체 산단 발언하는 최태원 SK하이닉스 회장](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ydmNLYnlRLWUzaGZMTGZpd1g4SlpGMENwNzdwTDZ2V3lDZ0JjMzl1dWV6Ny1zTW5TenZVVmZneGx3TWRqZ0Jya1MzcG1CTjl4TmVGZ0ZQaVVXZXhCOTYwNtIBYEFVX3lxTE8ydmNLYnlRLWUzaGZMTGZpd1g4SlpGMENwNzdwTDZ2V3lDZ0JjMzl1dWV6Ny1zTW5TenZVVmZneGx3TWRqZ0Jya1MzcG1CTjl4TmVGZ0ZQaVVXZXhCOTYwNg?oc=5) `[연합뉴스]`
+- [삼전 살까, SK하닉 살까…여의도 전설은 ‘이 종목’ 찍었다](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1md3RBaUJ4QkoyLVFsTEhBWFRFbzBnQkd2Y3hfY0Vlb1h4bkNPWWFNWXRUUXBkLWl2MnpWTWpKQzkwVndlRHp2V2FTWHh4bzVDc1ZwejNB?oc=5) `[중앙일보]`
 - [SK하이닉스 주가, 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTFB0ZjYyWGtQcGNsSWZDRTJFeXlkbjdJMVMzcHVtanQ1SExoNHF1SUs0bHNHOGd4VGpOa1dZUWxObkZKb2syaUo4RXR5Vk1abWxjRVN2OHZKVGxGY3NaSEtpYXVLcXMxY251MFY3dFhLbE9NYjdRMlFn?oc=5) `[Investing.com 한국어]`
-- [SK하이닉스, AI환경연구소 설립 추진…반도체 환경 난제 대응](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJNjdpSWhjSzI3dXN5aUoyY0l4NVI3MERuT1BvZWRkLUo2VkJtcEo5cGNjYWJReWw3YjZjMlBCLVVFbjdYUWs3bXJvbE5nbFQwelFxSV9ZR1ZQTXI1WGlmcU80Rl9jVlE?oc=5) `[연합뉴스TV]`
-- [SK하이닉스, 반도체·데이터센터 환경 문제에 AI 적용… 전담 연구소 설립 추진](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi1WV2NmX01aR3loejl5MEtqOUpsclA1aG1idjJBcTYxRE8yXzM0S1I1UGZ3Q1U2SW82UURIam9fNVpWV3UxREx1OS1oSWRCSHlsTmE1azdQeWIwU21qTEdLZ0pFLTJXTVBFY1dCbVlQQV9GU0xDeXRteEE2Rkt3Q05n?oc=5) `[Chosunbiz]`
 
 
 <!-- STOCK_REPORT_END -->
