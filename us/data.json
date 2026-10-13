@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:45:56+09:00",
+  "generated_at": "2026-10-14T01:02:57+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "published_kst": "2026.10.14 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Build your data strength with October’s Demand Gen drop.",
+      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "published_kst": "2026.10.14 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We're helping Indiana communities save with clean energy investments.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "published_kst": "2026.10.14 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "published_kst": "2026.10.14 01:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -57,42 +93,6 @@
       "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
       "published_iso": "2026-10-12T13:00:00+00:00",
       "published_kst": "2026.10.12 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
-      "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
-      "published_iso": "2026-10-12T13:00:00+00:00",
-      "published_kst": "2026.10.12 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
-      "published_iso": "2026-10-12T13:00:00+00:00",
-      "published_kst": "2026.10.12 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
-      "published_iso": "2026-10-08T22:30:00+00:00",
-      "published_kst": "2026.10.09 07:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
-      "published_iso": "2026-10-08T15:30:00+00:00",
-      "published_kst": "2026.10.09 00:30"
     },
     {
       "ticker": "NVDA",
