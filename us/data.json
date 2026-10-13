@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:02:57+09:00",
+  "generated_at": "2026-10-14T06:18:22+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,8 +26,44 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+      "published_iso": "2026-10-13T18:00:00+00:00",
+      "published_kst": "2026.10.14 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "New on Google Play: More ways to create, discover, and play",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+      "published_iso": "2026-10-13T17:00:00+00:00",
+      "published_kst": "2026.10.14 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "A new app experience is coming to cars with Google built-in",
+      "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+      "published_iso": "2026-10-13T17:00:00+00:00",
+      "published_kst": "2026.10.14 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Gemini 4 Argon comes to the Gemini app.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "published_kst": "2026.10.14 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Gemini 4 Argon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
       "published_iso": "2026-10-13T16:00:00+00:00",
       "published_kst": "2026.10.14 01:00"
     },
@@ -57,42 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "published_iso": "2026-10-13T16:00:00+00:00",
       "published_kst": "2026.10.14 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Applying technology to understand and treat disease",
-      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
-      "published_iso": "2026-10-12T17:30:00+00:00",
-      "published_kst": "2026.10.13 02:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Google Health: Evolving so you can focus on living better",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
-      "published_iso": "2026-10-12T13:00:00+00:00",
-      "published_kst": "2026.10.12 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
-      "published_iso": "2026-10-12T13:00:00+00:00",
-      "published_kst": "2026.10.12 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re partnering with Flo Health to elevate women’s health",
-      "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
-      "published_iso": "2026-10-12T13:00:00+00:00",
-      "published_kst": "2026.10.12 22:00"
     },
     {
       "ticker": "NVDA",
