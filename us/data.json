@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:02:34+09:00",
+  "generated_at": "2026-10-15T02:15:15+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+      "published_iso": "2026-10-14T16:15:00+00:00",
+      "published_kst": "2026.10.15 01:15"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "published_iso": "2026-10-14T15:00:00+00:00",
+      "published_kst": "2026.10.15 00:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -77,22 +95,13 @@
       "published_kst": "2026.10.14 03:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "New on Google Play: More ways to create, discover, and play",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
-      "published_iso": "2026-10-13T17:00:00+00:00",
-      "published_kst": "2026.10.14 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "A new app experience is coming to cars with Google built-in",
-      "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
-      "published_iso": "2026-10-13T17:00:00+00:00",
-      "published_kst": "2026.10.14 02:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+      "published_iso": "2026-10-14T16:10:00+00:00",
+      "published_kst": "2026.10.15 01:10"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "published_iso": "2026-09-10T09:00:00+00:00",
       "published_kst": "2026.09.10 18:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
-      "published_iso": "2026-09-10T00:00:00+00:00",
-      "published_kst": "2026.09.10 09:00"
     }
   ]
 }
