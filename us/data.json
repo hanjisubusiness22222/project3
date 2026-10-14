@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:15:15+09:00",
+  "generated_at": "2026-10-14T15:13:58+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,15 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+      "published_iso": "2026-10-14T06:01:00+00:00",
+      "published_kst": "2026.10.14 15:01"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
       "published_iso": "2026-10-12T15:00:00+00:00",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
       "published_iso": "2026-09-10T00:00:00+00:00",
       "published_kst": "2026.09.10 09:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "published_iso": "2026-08-31T12:30:00+00:00",
-      "published_kst": "2026.08.31 21:30"
     }
   ]
 }
