@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:59:02+09:00",
+  "generated_at": "2026-10-16T00:04:37+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Making your Pixel devices last longer through design, repair, and reuse",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+      "published_iso": "2026-10-15T15:00:00+00:00",
+      "published_kst": "2026.10.16 00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "An intelligent new shopping cart",
+      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "published_iso": "2026-10-15T13:00:00+00:00",
+      "published_kst": "2026.10.15 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "published_iso": "2026-10-15T13:00:00+00:00",
+      "published_kst": "2026.10.15 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Data-backed secrets to smarter holiday shopping",
+      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+      "published_iso": "2026-10-15T13:00:00+00:00",
+      "published_kst": "2026.10.15 22:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -57,42 +93,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
       "published_iso": "2026-10-14T12:00:00+00:00",
       "published_kst": "2026.10.14 21:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "17 organizations using AI to accelerate scientific breakthroughs",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
-      "published_iso": "2026-10-14T09:30:00+00:00",
-      "published_kst": "2026.10.14 18:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
-      "published_iso": "2026-10-14T08:00:00+00:00",
-      "published_kst": "2026.10.14 17:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Enabling an AI-first European economy",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
-      "published_iso": "2026-10-14T07:00:00+00:00",
-      "published_kst": "2026.10.14 16:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
-      "published_iso": "2026-10-13T18:00:00+00:00",
-      "published_kst": "2026.10.14 03:00"
     },
     {
       "ticker": "NVDA",
