@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:04:37+09:00",
+  "generated_at": "2026-10-16T04:11:46+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,60 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "published_iso": "2026-10-15T18:00:00+00:00",
+      "published_kst": "2026.10.16 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "published_iso": "2026-10-15T17:30:00+00:00",
+      "published_kst": "2026.10.16 02:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How we're helping the world prepare for natural disasters",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Android earthquake alerts now available in more than 200 regions",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "400 publications are now partnering with us on our News AI pilot program.",
+      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "More ways to connect with the web from Search",
+      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Making your Pixel devices last longer through design, repair, and reuse",
       "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
       "published_iso": "2026-10-15T15:00:00+00:00",
@@ -41,58 +95,22 @@
       "published_kst": "2026.10.15 22:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
-      "published_iso": "2026-10-15T13:00:00+00:00",
-      "published_kst": "2026.10.15 22:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+      "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "published_iso": "2026-10-15T17:30:00+00:00",
+      "published_kst": "2026.10.16 02:30"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Data-backed secrets to smarter holiday shopping",
-      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
-      "published_iso": "2026-10-15T13:00:00+00:00",
-      "published_kst": "2026.10.15 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Research@ 2026: Novel capabilities and intelligence",
-      "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
-      "published_iso": "2026-10-14T16:15:00+00:00",
-      "published_kst": "2026.10.15 01:15"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Guide your campaign spending with new priority and allocation features",
-      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-      "published_iso": "2026-10-14T15:00:00+00:00",
-      "published_kst": "2026.10.15 00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Check out this year’s buzziest Halloween trends.",
-      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
-      "published_iso": "2026-10-14T12:00:00+00:00",
-      "published_kst": "2026.10.14 21:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "6 ways to trick-or-treat yourself to the ultimate Halloween with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
-      "published_iso": "2026-10-14T12:00:00+00:00",
-      "published_kst": "2026.10.14 21:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "published_iso": "2026-10-15T17:00:00+00:00",
+      "published_kst": "2026.10.16 02:00"
     },
     {
       "ticker": "NVDA",
@@ -147,24 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
       "published_iso": "2026-09-28T09:00:00+00:00",
       "published_kst": "2026.09.28 18:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "published_iso": "2026-09-14T13:00:00+00:00",
-      "published_kst": "2026.09.14 22:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
-      "published_iso": "2026-09-10T09:00:00+00:00",
-      "published_kst": "2026.09.10 18:00"
     }
   ]
 }
