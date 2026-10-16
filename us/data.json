@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:30:19+09:00",
+  "generated_at": "2026-10-17T02:27:34+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+      "published_iso": "2026-10-16T16:00:00+00:00",
+      "published_kst": "2026.10.17 01:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
       "published_iso": "2026-10-15T15:00:00+00:00",
       "published_kst": "2026.10.16 00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "An intelligent new shopping cart",
-      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "published_iso": "2026-10-15T13:00:00+00:00",
-      "published_kst": "2026.10.15 22:00"
     },
     {
       "ticker": "NVDA",
