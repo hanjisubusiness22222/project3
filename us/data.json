@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:09:24+09:00",
+  "generated_at": "2026-10-20T06:06:25+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+      "published_iso": "2026-10-19T20:15:00+00:00",
+      "published_kst": "2026.10.20 05:15"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "published_iso": "2026-10-19T17:00:00+00:00",
+      "published_kst": "2026.10.20 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "4 tips for styling outfits with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+      "published_iso": "2026-10-19T16:00:00+00:00",
+      "published_kst": "2026.10.20 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "See the top style searches from people in big fashion capitals.",
+      "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+      "published_iso": "2026-10-19T16:00:00+00:00",
+      "published_kst": "2026.10.20 01:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -59,40 +95,13 @@
       "published_kst": "2026.10.16 02:30"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "400 publications are now partnering with us on our News AI pilot program.",
-      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "More ways to connect with the web from Search",
-      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How we're helping the world prepare for natural disasters",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Android earthquake alerts now available in more than 200 regions",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "published_iso": "2026-10-19T18:00:00+00:00",
+      "published_kst": "2026.10.20 03:00"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
       "published_iso": "2026-10-12T15:00:00+00:00",
       "published_kst": "2026.10.13 00:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
-      "published_iso": "2026-10-08T14:31:00+00:00",
-      "published_kst": "2026.10.08 23:31"
     }
   ]
 }
