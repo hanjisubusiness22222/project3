@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:50:42+09:00",
+  "generated_at": "2026-10-20T01:09:24+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+      "published_iso": "2026-10-19T12:00:00+00:00",
+      "published_kst": "2026.10.19 21:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -53,24 +62,6 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "How we're helping the world prepare for natural disasters",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Android earthquake alerts now available in more than 200 regions",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "published_kst": "2026.10.16 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
       "title": "400 publications are now partnering with us on our News AI pilot program.",
       "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
       "published_iso": "2026-10-15T16:00:00+00:00",
@@ -89,10 +80,19 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Making your Pixel devices last longer through design, repair, and reuse",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
-      "published_iso": "2026-10-15T15:00:00+00:00",
-      "published_kst": "2026.10.16 00:00"
+      "title": "How we're helping the world prepare for natural disasters",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Android earthquake alerts now available in more than 200 regions",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "published_kst": "2026.10.16 01:00"
     },
     {
       "ticker": "NVDA",
