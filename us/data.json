@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:43:44+09:00",
+  "generated_at": "2026-10-21T02:13:01+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "published_iso": "2026-10-20T16:00:00+00:00",
+      "published_kst": "2026.10.21 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "New Gemini tools for small business owners",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "published_iso": "2026-10-20T16:00:00+00:00",
+      "published_kst": "2026.10.21 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Expanding our defenses against financial scam ads",
+      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "published_iso": "2026-10-20T15:00:00+00:00",
+      "published_kst": "2026.10.21 00:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
       "published_iso": "2026-10-19T12:00:00+00:00",
       "published_kst": "2026.10.19 21:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
-      "published_iso": "2026-10-16T16:00:00+00:00",
-      "published_kst": "2026.10.17 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "published_iso": "2026-10-15T18:00:00+00:00",
-      "published_kst": "2026.10.16 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Check if a text message is a scam using Circle to Search.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
-      "published_iso": "2026-10-15T17:30:00+00:00",
-      "published_kst": "2026.10.16 02:30"
     },
     {
       "ticker": "NVDA",
