@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:13:01+09:00",
+  "generated_at": "2026-10-21T05:39:11+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Get hands-free personalized help on the road with Gemini",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "published_iso": "2026-10-20T20:00:00+00:00",
+      "published_kst": "2026.10.21 05:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
       "published_iso": "2026-10-19T16:00:00+00:00",
       "published_kst": "2026.10.20 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
-      "published_iso": "2026-10-19T12:00:00+00:00",
-      "published_kst": "2026.10.19 21:00"
     },
     {
       "ticker": "NVDA",
