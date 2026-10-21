@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:55:37+09:00",
+  "generated_at": "2026-10-21T13:54:23+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published_iso": "2026-10-21T04:00:00+00:00",
+      "published_kst": "2026.10.21 13:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -82,15 +91,6 @@
       "source": "Google 공식 블로그",
       "title": "4 tips for styling outfits with Gemini",
       "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
-      "published_iso": "2026-10-19T16:00:00+00:00",
-      "published_kst": "2026.10.20 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "See the top style searches from people in big fashion capitals.",
-      "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
       "published_iso": "2026-10-19T16:00:00+00:00",
       "published_kst": "2026.10.20 01:00"
     },
