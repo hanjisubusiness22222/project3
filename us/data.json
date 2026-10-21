@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:19:43+09:00",
+  "generated_at": "2026-10-22T05:12:33+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -39,6 +39,15 @@
       "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
       "published_iso": "2026-10-21T13:00:00+00:00",
       "published_kst": "2026.10.21 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Drive with “The Cat in the Hat” on Waze.",
+      "url": "https://blog.google/waze/waze-the-cat-in-the-hat/",
+      "published_iso": "2026-10-21T11:39:00+00:00",
+      "published_kst": "2026.10.21 20:39"
     },
     {
       "ticker": "GOOGL",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
       "published_iso": "2026-10-20T15:00:00+00:00",
       "published_kst": "2026.10.21 00:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
-      "published_iso": "2026-10-19T20:15:00+00:00",
-      "published_kst": "2026.10.20 05:15"
     },
     {
       "ticker": "NVDA",
