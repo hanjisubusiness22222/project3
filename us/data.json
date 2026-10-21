@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:54:23+09:00",
+  "generated_at": "2026-10-21T19:13:43+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,33 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+      "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "published_iso": "2026-10-21T09:48:00+00:00",
+      "published_kst": "2026.10.21 18:48"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
+      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
+      "published_iso": "2026-10-21T09:35:00+00:00",
+      "published_kst": "2026.10.21 18:35"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "published_iso": "2026-10-21T09:34:00+00:00",
+      "published_kst": "2026.10.21 18:34"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
       "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
       "published_iso": "2026-10-19T18:00:00+00:00",
@@ -138,33 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
       "published_iso": "2026-10-15T17:00:00+00:00",
       "published_kst": "2026.10.16 02:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-      "published_iso": "2026-10-14T16:10:00+00:00",
-      "published_kst": "2026.10.15 01:10"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
-      "published_iso": "2026-10-14T06:01:00+00:00",
-      "published_kst": "2026.10.14 15:01"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "published_iso": "2026-10-12T15:00:00+00:00",
-      "published_kst": "2026.10.13 00:00"
     }
   ]
 }
