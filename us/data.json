@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:13:43+09:00",
+  "generated_at": "2026-10-22T00:19:43+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
+      "published_iso": "2026-10-21T14:00:00+00:00",
+      "published_kst": "2026.10.21 23:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "published_iso": "2026-10-21T13:00:00+00:00",
+      "published_kst": "2026.10.21 22:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -77,22 +95,49 @@
       "published_kst": "2026.10.20 05:15"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-      "published_iso": "2026-10-19T17:00:00+00:00",
-      "published_kst": "2026.10.20 02:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "published_iso": "2026-10-21T10:33:00+00:00",
+      "published_kst": "2026.10.21 19:33"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "4 tips for styling outfits with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
-      "published_iso": "2026-10-19T16:00:00+00:00",
-      "published_kst": "2026.10.20 01:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "published_iso": "2026-10-21T10:20:00+00:00",
+      "published_kst": "2026.10.21 19:20"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
+      "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "published_iso": "2026-10-21T10:14:00+00:00",
+      "published_kst": "2026.10.21 19:14"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
+      "url": "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care",
+      "published_iso": "2026-10-21T10:13:00+00:00",
+      "published_kst": "2026.10.21 19:13"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "published_iso": "2026-10-21T10:11:00+00:00",
+      "published_kst": "2026.10.21 19:11"
     },
     {
       "ticker": "NVDA",
@@ -120,51 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
       "published_iso": "2026-10-21T09:34:00+00:00",
       "published_kst": "2026.10.21 18:34"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
-      "published_iso": "2026-10-19T18:00:00+00:00",
-      "published_kst": "2026.10.20 03:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "published_iso": "2026-10-16T12:00:00+00:00",
-      "published_kst": "2026.10.16 21:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-      "published_iso": "2026-10-16T08:00:00+00:00",
-      "published_kst": "2026.10.16 17:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
-      "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
-      "published_iso": "2026-10-15T17:30:00+00:00",
-      "published_kst": "2026.10.16 02:30"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-      "published_iso": "2026-10-15T17:00:00+00:00",
-      "published_kst": "2026.10.16 02:00"
     }
   ]
 }
