@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:15:07+09:00",
+  "generated_at": "2026-10-23T00:21:40+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "published_iso": "2026-10-22T13:00:00+00:00",
+      "published_kst": "2026.10.22 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+      "published_iso": "2026-10-22T11:30:00+00:00",
+      "published_kst": "2026.10.22 20:30"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -75,24 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
       "published_iso": "2026-10-20T16:00:00+00:00",
       "published_kst": "2026.10.21 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "New Gemini tools for small business owners",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
-      "published_iso": "2026-10-20T16:00:00+00:00",
-      "published_kst": "2026.10.21 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Expanding our defenses against financial scam ads",
-      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
-      "published_iso": "2026-10-20T15:00:00+00:00",
-      "published_kst": "2026.10.21 00:00"
     },
     {
       "ticker": "NVDA",
