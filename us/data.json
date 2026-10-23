@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:07:54+09:00",
+  "generated_at": "2026-10-24T04:17:42+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "See what 5 builders are making with Gemini 4 Argon",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+      "published_iso": "2026-10-23T16:00:00+00:00",
+      "published_kst": "2026.10.24 01:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
       "published_iso": "2026-10-20T20:00:00+00:00",
       "published_kst": "2026.10.21 05:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
-      "published_iso": "2026-10-20T16:00:00+00:00",
-      "published_kst": "2026.10.21 01:00"
     },
     {
       "ticker": "NVDA",
