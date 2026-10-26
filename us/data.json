@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:19:27+09:00",
+  "generated_at": "2026-10-27T05:31:46+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published_iso": "2026-10-26T16:00:00+00:00",
+      "published_kst": "2026.10.27 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "15 college students share their favorite Gemini features",
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+      "published_iso": "2026-10-26T16:00:00+00:00",
+      "published_kst": "2026.10.27 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Powering sub-Saharan Africa beyond the grid",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+      "published_iso": "2026-10-26T15:00:00+00:00",
+      "published_kst": "2026.10.27 00:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
       "published_iso": "2026-10-22T11:30:00+00:00",
       "published_kst": "2026.10.22 20:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
-      "published_iso": "2026-10-21T14:00:00+00:00",
-      "published_kst": "2026.10.21 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-      "published_iso": "2026-10-21T13:00:00+00:00",
-      "published_kst": "2026.10.21 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Drive with “The Cat in the Hat” on Waze.",
-      "url": "https://blog.google/waze/waze-the-cat-in-the-hat/",
-      "published_iso": "2026-10-21T11:39:00+00:00",
-      "published_kst": "2026.10.21 20:39"
     },
     {
       "ticker": "NVDA",
