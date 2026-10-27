@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:28:50+09:00",
+  "generated_at": "2026-10-27T15:20:04+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,15 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "published_iso": "2026-10-27T05:52:00+00:00",
+      "published_kst": "2026.10.27 14:52"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
       "published_iso": "2026-10-21T10:33:00+00:00",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
       "published_iso": "2026-10-21T09:35:00+00:00",
       "published_kst": "2026.10.21 18:35"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
-      "published_iso": "2026-10-21T09:34:00+00:00",
-      "published_kst": "2026.10.21 18:34"
     }
   ]
 }
