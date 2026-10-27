@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:15:54+09:00",
+  "generated_at": "2026-10-28T03:45:22+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,24 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+      "published_iso": "2026-10-27T16:00:00+00:00",
+      "published_kst": "2026.10.28 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "8 examples of Gemini 4 Argon in action",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+      "published_iso": "2026-10-27T15:00:00+00:00",
+      "published_kst": "2026.10.28 00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Fitbit Edge: Premium design for an active life",
       "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
       "published_iso": "2026-10-27T13:00:00+00:00",
@@ -35,8 +53,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "title": "15 college students share their favorite Gemini features",
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
       "published_iso": "2026-10-26T16:00:00+00:00",
       "published_kst": "2026.10.27 01:00"
     },
@@ -44,8 +62,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "15 college students share their favorite Gemini features",
-      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "published_iso": "2026-10-26T16:00:00+00:00",
       "published_kst": "2026.10.27 01:00"
     },
@@ -77,22 +95,13 @@
       "published_kst": "2026.10.26 22:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "See what 5 builders are making with Gemini 4 Argon",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
-      "published_iso": "2026-10-23T16:00:00+00:00",
-      "published_kst": "2026.10.24 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-      "published_iso": "2026-10-22T13:00:00+00:00",
-      "published_kst": "2026.10.22 22:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "published_iso": "2026-10-27T16:00:00+00:00",
+      "published_kst": "2026.10.28 01:00"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
       "published_iso": "2026-10-21T09:48:00+00:00",
       "published_kst": "2026.10.21 18:48"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
-      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
-      "published_iso": "2026-10-21T09:35:00+00:00",
-      "published_kst": "2026.10.21 18:35"
     }
   ]
 }
