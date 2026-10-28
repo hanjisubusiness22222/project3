@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:44:55+09:00",
+  "generated_at": "2026-10-29T01:40:20+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Indie Games Fund in Africa: Meet the selected studios",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
+      "published_iso": "2026-10-28T14:00:00+00:00",
+      "published_kst": "2026.10.28 23:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
       "published_iso": "2026-10-26T14:00:00+00:00",
       "published_kst": "2026.10.26 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How Google Beam connects military families globally",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
-      "published_iso": "2026-10-26T13:00:00+00:00",
-      "published_kst": "2026.10.26 22:00"
     },
     {
       "ticker": "NVDA",
