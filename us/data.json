@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:40:20+09:00",
+  "generated_at": "2026-10-29T06:41:14+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,82 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Indie Games Fund in Africa: Meet the selected studios",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
-      "published_iso": "2026-10-28T14:00:00+00:00",
-      "published_kst": "2026.10.28 23:00"
+      "title": "Ads in AI Mode expand to new markets.",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "published_iso": "2026-10-28T21:30:00+00:00",
+      "published_kst": "2026.10.29 06:30"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
-      "published_iso": "2026-10-27T16:00:00+00:00",
-      "published_kst": "2026.10.28 01:00"
+      "title": "Q3 2026 earnings call: Remarks from our CEO",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "published_iso": "2026-10-28T21:05:00+00:00",
+      "published_kst": "2026.10.29 06:05"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "8 examples of Gemini 4 Argon in action",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
-      "published_iso": "2026-10-27T15:00:00+00:00",
-      "published_kst": "2026.10.28 00:00"
+      "title": "Adapt your ad strategy to meet the way people search today.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+      "published_iso": "2026-10-28T19:00:00+00:00",
+      "published_kst": "2026.10.29 04:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Fitbit Edge: Premium design for an active life",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
-      "published_iso": "2026-10-27T13:00:00+00:00",
-      "published_kst": "2026.10.27 22:00"
+      "title": "Dive into new topics with immersive explorations in the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+      "published_iso": "2026-10-28T18:00:00+00:00",
+      "published_kst": "2026.10.29 03:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "15 college students share their favorite Gemini features",
-      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
-      "published_iso": "2026-10-26T16:00:00+00:00",
-      "published_kst": "2026.10.27 01:00"
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "published_iso": "2026-10-28T17:00:00+00:00",
+      "published_kst": "2026.10.29 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "published_iso": "2026-10-26T16:00:00+00:00",
-      "published_kst": "2026.10.27 01:00"
+      "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "published_iso": "2026-10-28T17:00:00+00:00",
+      "published_kst": "2026.10.29 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Powering sub-Saharan Africa beyond the grid",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
-      "published_iso": "2026-10-26T15:00:00+00:00",
-      "published_kst": "2026.10.27 00:00"
+      "title": "Build and manage Connected Apps in one place",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "published_iso": "2026-10-28T17:00:00+00:00",
+      "published_kst": "2026.10.29 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "We’re helping farmers around the world connect to essential services online.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
-      "published_iso": "2026-10-26T14:00:00+00:00",
-      "published_kst": "2026.10.26 23:00"
+      "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+      "published_iso": "2026-10-28T17:00:00+00:00",
+      "published_kst": "2026.10.29 02:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+      "published_iso": "2026-10-28T21:00:00+00:00",
+      "published_kst": "2026.10.29 06:00"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
       "published_iso": "2026-10-21T10:11:00+00:00",
       "published_kst": "2026.10.21 19:11"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
-      "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
-      "published_iso": "2026-10-21T09:48:00+00:00",
-      "published_kst": "2026.10.21 18:48"
     }
   ]
 }
