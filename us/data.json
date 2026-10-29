@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:11:17+09:00",
+  "generated_at": "2026-10-30T06:10:39+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "published_iso": "2026-10-29T16:15:00+00:00",
+      "published_kst": "2026.10.30 01:15"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
       "published_iso": "2026-10-28T21:30:00+00:00",
       "published_kst": "2026.10.29 06:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Q3 2026 earnings call: Remarks from our CEO",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
-      "published_iso": "2026-10-28T21:05:00+00:00",
-      "published_kst": "2026.10.29 06:05"
     },
     {
       "ticker": "NVDA",
