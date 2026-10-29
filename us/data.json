@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:33:47+09:00",
+  "generated_at": "2026-10-30T01:11:17+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,6 +26,51 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "published_iso": "2026-10-29T16:00:00+00:00",
+      "published_kst": "2026.10.30 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Celebrate Halloween with these tricks in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+      "published_iso": "2026-10-29T16:00:00+00:00",
+      "published_kst": "2026.10.30 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Equipping healthcare professionals with practical AI skills",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+      "published_iso": "2026-10-29T13:00:00+00:00",
+      "published_kst": "2026.10.29 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How to use Gemini to update your resume",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+      "published_iso": "2026-10-29T11:33:00+00:00",
+      "published_kst": "2026.10.29 20:33"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How Gemini is helping students and teachers in the classroom",
+      "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "published_iso": "2026-10-29T09:00:00+00:00",
+      "published_kst": "2026.10.29 18:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Partnering with Singapore to bring frontier AI to public health",
       "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
       "published_iso": "2026-10-29T03:30:00+00:00",
@@ -48,51 +93,6 @@
       "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
       "published_iso": "2026-10-28T21:05:00+00:00",
       "published_kst": "2026.10.29 06:05"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Adapt your ad strategy to meet the way people search today.",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-      "published_iso": "2026-10-28T19:00:00+00:00",
-      "published_kst": "2026.10.29 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Dive into new topics with immersive explorations in the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
-      "published_iso": "2026-10-28T18:00:00+00:00",
-      "published_kst": "2026.10.29 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini 4 Carbon: our next frontier model",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "published_iso": "2026-10-28T17:00:00+00:00",
-      "published_kst": "2026.10.29 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "published_iso": "2026-10-28T17:00:00+00:00",
-      "published_kst": "2026.10.29 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Build and manage Connected Apps in one place",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
-      "published_iso": "2026-10-28T17:00:00+00:00",
-      "published_kst": "2026.10.29 02:00"
     },
     {
       "ticker": "NVDA",
