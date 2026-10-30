@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:10:39+09:00",
+  "generated_at": "2026-10-30T10:04:25+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -30,6 +30,15 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
       "published_iso": "2026-10-29T16:15:00+00:00",
       "published_kst": "2026.10.30 01:15"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+      "published_iso": "2026-10-29T16:00:00+00:00",
+      "published_kst": "2026.10.30 01:00"
     },
     {
       "ticker": "GOOGL",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
       "published_iso": "2026-10-29T03:30:00+00:00",
       "published_kst": "2026.10.29 12:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Ads in AI Mode expand to new markets.",
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-      "published_iso": "2026-10-28T21:30:00+00:00",
-      "published_kst": "2026.10.29 06:30"
     },
     {
       "ticker": "NVDA",
