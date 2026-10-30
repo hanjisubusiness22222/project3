@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:28:10+09:00",
+  "generated_at": "2026-10-31T08:51:14+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Fitbit Edge: On shelves now",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "published_iso": "2026-10-30T20:15:00+00:00",
+      "published_kst": "2026.10.31 05:15"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
       "published_iso": "2026-10-29T13:00:00+00:00",
       "published_kst": "2026.10.29 22:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How to use Gemini to update your resume",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
-      "published_iso": "2026-10-29T11:33:00+00:00",
-      "published_kst": "2026.10.29 20:33"
     },
     {
       "ticker": "NVDA",
