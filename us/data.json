@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:09:20+09:00",
+  "generated_at": "2026-11-03T08:35:17+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published_iso": "2026-11-02T17:45:00+00:00",
+      "published_kst": "2026.11.03 02:45"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
+      "url": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
+      "published_iso": "2026-11-02T17:00:00+00:00",
+      "published_kst": "2026.11.03 02:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -75,24 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
       "published_iso": "2026-10-29T16:00:00+00:00",
       "published_kst": "2026.10.30 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Celebrate Halloween with these tricks in Google Photos.",
-      "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
-      "published_iso": "2026-10-29T16:00:00+00:00",
-      "published_kst": "2026.10.30 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Equipping healthcare professionals with practical AI skills",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
-      "published_iso": "2026-10-29T13:00:00+00:00",
-      "published_kst": "2026.10.29 22:00"
     },
     {
       "ticker": "NVDA",
