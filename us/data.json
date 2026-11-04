@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:20:55+09:00",
+  "generated_at": "2026-11-05T03:00:27+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+      "published_iso": "2026-11-04T18:00:00+00:00",
+      "published_kst": "2026.11.05 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We're sharing our framework for building safer and more helpful AI for health.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "published_iso": "2026-11-04T14:00:00+00:00",
+      "published_kst": "2026.11.04 23:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Take a closer look at art with the Courtauld",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+      "published_iso": "2026-11-04T10:00:00+00:00",
+      "published_kst": "2026.11.04 19:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
       "published_iso": "2026-11-03T14:00:00+00:00",
       "published_kst": "2026.11.03 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Expanding AI educator training to new countries",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
-      "published_iso": "2026-11-03T14:00:00+00:00",
-      "published_kst": "2026.11.03 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Advancing research and partnering with universities in Singapore",
-      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-      "published_iso": "2026-11-03T04:30:00+00:00",
-      "published_kst": "2026.11.03 13:30"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "published_iso": "2026-11-02T17:45:00+00:00",
-      "published_kst": "2026.11.03 02:45"
     },
     {
       "ticker": "NVDA",
