@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:53:47+09:00",
+  "generated_at": "2026-11-06T00:31:05+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Check out our free livestream during National Veterans Small Business Week.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "published_iso": "2026-11-05T14:00:00+00:00",
+      "published_kst": "2026.11.05 23:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -53,17 +62,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "New research shows how Guided Learning supports students",
-      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
-      "published_iso": "2026-11-03T14:00:00+00:00",
-      "published_kst": "2026.11.03 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re providing funding for organizations building AI for teachers.",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "title": "Designing responsible AI for learning",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
       "published_iso": "2026-11-03T14:00:00+00:00",
       "published_kst": "2026.11.03 23:00"
     },
@@ -80,8 +80,8 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Designing responsible AI for learning",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
       "published_iso": "2026-11-03T14:00:00+00:00",
       "published_kst": "2026.11.03 23:00"
     },
