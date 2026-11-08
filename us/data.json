@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T04:46:08+09:00",
+  "generated_at": "2026-11-09T08:45:58+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,24 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "A Message to Our Company",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "published_iso": "2026-11-08T21:02:00+00:00",
+      "published_kst": "2026.11.09 06:02"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "Statement from NVIDIA Board of Directors",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "published_iso": "2026-11-08T20:00:00+00:00",
+      "published_kst": "2026.11.09 05:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
       "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
       "published_iso": "2026-10-28T21:00:00+00:00",
@@ -147,24 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
       "published_iso": "2026-10-21T10:14:00+00:00",
       "published_kst": "2026.10.21 19:14"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
-      "url": "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care",
-      "published_iso": "2026-10-21T10:13:00+00:00",
-      "published_kst": "2026.10.21 19:13"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
-      "published_iso": "2026-10-21T10:11:00+00:00",
-      "published_kst": "2026.10.21 19:11"
     }
   ]
 }
