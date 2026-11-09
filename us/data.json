@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:45:58+09:00",
+  "generated_at": "2026-11-09T15:41:26+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,15 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "published_iso": "2026-11-09T05:00:00+00:00",
+      "published_kst": "2026.11.09 14:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "A Message to Our Company",
       "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "published_iso": "2026-11-08T21:02:00+00:00",
@@ -107,7 +116,7 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
-      "title": "Statement from NVIDIA Board of Directors",
+      "title": "Statement From NVIDIA Board of Directors",
       "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
       "published_iso": "2026-11-08T20:00:00+00:00",
       "published_kst": "2026.11.09 05:00"
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
       "published_iso": "2026-10-21T10:20:00+00:00",
       "published_kst": "2026.10.21 19:20"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
-      "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
-      "published_iso": "2026-10-21T10:14:00+00:00",
-      "published_kst": "2026.10.21 19:14"
     }
   ]
 }
