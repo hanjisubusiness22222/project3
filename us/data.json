@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:41:26+09:00",
+  "generated_at": "2026-11-10T02:34:37+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "published_iso": "2026-11-09T17:00:00+00:00",
+      "published_kst": "2026.11.10 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "published_iso": "2026-11-09T13:00:00+00:00",
+      "published_kst": "2026.11.09 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+      "published_iso": "2026-11-09T12:00:00+00:00",
+      "published_kst": "2026.11.09 21:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
       "published_iso": "2026-11-05T14:00:00+00:00",
       "published_kst": "2026.11.05 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Watch Henry Cavill build a video game on his Googlebook",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-      "published_iso": "2026-11-04T18:00:00+00:00",
-      "published_kst": "2026.11.05 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We're sharing our framework for building safer and more helpful AI for health.",
-      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
-      "published_iso": "2026-11-04T14:00:00+00:00",
-      "published_kst": "2026.11.04 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Take a closer look at art with the Courtauld",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
-      "published_iso": "2026-11-04T10:00:00+00:00",
-      "published_kst": "2026.11.04 19:00"
     },
     {
       "ticker": "NVDA",
