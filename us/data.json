@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:55:21+09:00",
+  "generated_at": "2026-11-11T02:53:27+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,73 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-      "published_iso": "2026-11-09T17:00:00+00:00",
-      "published_kst": "2026.11.10 02:00"
+      "title": "Introducing Google Fi’s new super network",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
+      "published_iso": "2026-11-10T17:20:00+00:00",
+      "published_kst": "2026.11.11 02:20"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "published_iso": "2026-11-09T13:00:00+00:00",
-      "published_kst": "2026.11.09 22:00"
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "published_iso": "2026-11-10T16:00:00+00:00",
+      "published_kst": "2026.11.11 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Holiday 100: Your guide to this year’s top trending gifts",
-      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
-      "published_iso": "2026-11-09T12:00:00+00:00",
-      "published_kst": "2026.11.09 21:00"
+      "title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "published_iso": "2026-11-10T16:00:00+00:00",
+      "published_kst": "2026.11.11 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-      "published_iso": "2026-11-05T20:00:00+00:00",
-      "published_kst": "2026.11.06 05:00"
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "published_iso": "2026-11-10T16:00:00+00:00",
+      "published_kst": "2026.11.11 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "published_kst": "2026.11.06 02:00"
+      "title": "Introducing 3 new domains: .eat, .fly, and .here",
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
+      "published_iso": "2026-11-10T16:00:00+00:00",
+      "published_kst": "2026.11.11 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "published_kst": "2026.11.06 02:00"
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "published_kst": "2026.11.10 23:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Transform a quick drawing into a live app with Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-      "published_iso": "2026-11-05T17:00:00+00:00",
-      "published_kst": "2026.11.06 02:00"
+      "title": "40 years of American culinary history with the James Beard Foundation",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+      "published_iso": "2026-11-10T14:00:00+00:00",
+      "published_kst": "2026.11.10 23:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Check out our free livestream during National Veterans Small Business Week.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
-      "published_iso": "2026-11-05T14:00:00+00:00",
-      "published_kst": "2026.11.05 23:00"
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_iso": "2026-11-10T13:00:00+00:00",
+      "published_kst": "2026.11.10 22:00"
     },
     {
       "ticker": "NVDA",
