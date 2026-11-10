@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:53:27+09:00",
+  "generated_at": "2026-11-11T08:26:04+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published_iso": "2026-11-10T19:00:00+00:00",
+      "published_kst": "2026.11.11 04:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "published_iso": "2026-11-10T19:00:00+00:00",
+      "published_kst": "2026.11.11 04:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Get step-by-step workout guidance on your Pixel Watch.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
+      "published_iso": "2026-11-10T19:00:00+00:00",
+      "published_kst": "2026.11.11 04:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -68,31 +95,13 @@
       "published_kst": "2026.11.11 01:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published_iso": "2026-11-10T14:00:00+00:00",
-      "published_kst": "2026.11.10 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "40 years of American culinary history with the James Beard Foundation",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
-      "published_iso": "2026-11-10T14:00:00+00:00",
-      "published_kst": "2026.11.10 23:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published_iso": "2026-11-10T13:00:00+00:00",
-      "published_kst": "2026.11.10 22:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "Statement From the Independent Members of the NVIDIA Board",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+      "published_iso": "2026-11-10T19:07:00+00:00",
+      "published_kst": "2026.11.11 04:07"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
       "published_iso": "2026-10-21T10:33:00+00:00",
       "published_kst": "2026.10.21 19:33"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
-      "published_iso": "2026-10-21T10:20:00+00:00",
-      "published_kst": "2026.10.21 19:20"
     }
   ]
 }
