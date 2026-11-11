@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:17:00+09:00",
+  "generated_at": "2026-11-12T07:03:25+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,73 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published_iso": "2026-11-11T18:00:00+00:00",
+      "published_kst": "2026.11.12 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+      "published_iso": "2026-11-11T18:00:00+00:00",
+      "published_kst": "2026.11.12 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "published_iso": "2026-11-11T17:00:00+00:00",
+      "published_kst": "2026.11.12 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google’s ongoing commitment to the veteran community",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+      "published_iso": "2026-11-11T17:00:00+00:00",
+      "published_kst": "2026.11.12 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+      "published_iso": "2026-11-11T17:00:00+00:00",
+      "published_kst": "2026.11.12 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "published_iso": "2026-11-11T17:00:00+00:00",
+      "published_kst": "2026.11.12 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published_iso": "2026-11-11T16:00:00+00:00",
+      "published_kst": "2026.11.12 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
       "published_iso": "2026-11-11T09:00:00+00:00",
       "published_kst": "2026.11.11 18:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published_iso": "2026-11-10T19:00:00+00:00",
-      "published_kst": "2026.11.11 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
-      "published_iso": "2026-11-10T19:00:00+00:00",
-      "published_kst": "2026.11.11 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Get step-by-step workout guidance on your Pixel Watch.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
-      "published_iso": "2026-11-10T19:00:00+00:00",
-      "published_kst": "2026.11.11 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing Google Fi’s new super network",
-      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
-      "published_iso": "2026-11-10T17:20:00+00:00",
-      "published_kst": "2026.11.11 02:20"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini 4 Carbon is now available for developers.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-      "published_iso": "2026-11-10T16:00:00+00:00",
-      "published_kst": "2026.11.11 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-      "published_iso": "2026-11-10T16:00:00+00:00",
-      "published_kst": "2026.11.11 01:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "published_iso": "2026-11-10T16:00:00+00:00",
-      "published_kst": "2026.11.11 01:00"
     },
     {
       "ticker": "NVDA",
