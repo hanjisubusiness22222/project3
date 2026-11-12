@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:21:16+09:00",
+  "generated_at": "2026-11-13T04:58:43+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,82 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "published_iso": "2026-11-11T18:00:00+00:00",
-      "published_kst": "2026.11.12 03:00"
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_iso": "2026-11-12T18:00:00+00:00",
+      "published_kst": "2026.11.13 03:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
-      "published_iso": "2026-11-11T18:00:00+00:00",
-      "published_kst": "2026.11.12 03:00"
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "published_iso": "2026-11-12T18:00:00+00:00",
+      "published_kst": "2026.11.13 03:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Talk it through with Gemini, now on Apple CarPlay",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
-      "published_iso": "2026-11-11T17:00:00+00:00",
-      "published_kst": "2026.11.12 02:00"
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "published_iso": "2026-11-12T18:00:00+00:00",
+      "published_kst": "2026.11.13 03:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Google’s ongoing commitment to the veteran community",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
-      "published_iso": "2026-11-11T17:00:00+00:00",
-      "published_kst": "2026.11.12 02:00"
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "published_iso": "2026-11-12T17:00:00+00:00",
+      "published_kst": "2026.11.13 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
-      "published_iso": "2026-11-11T17:00:00+00:00",
-      "published_kst": "2026.11.12 02:00"
+      "title": "Meet the 2026 Google PhD Fellows",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "published_iso": "2026-11-12T17:00:00+00:00",
+      "published_kst": "2026.11.13 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-      "published_iso": "2026-11-11T17:00:00+00:00",
-      "published_kst": "2026.11.12 02:00"
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+      "published_iso": "2026-11-12T17:00:00+00:00",
+      "published_kst": "2026.11.13 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published_iso": "2026-11-11T16:00:00+00:00",
-      "published_kst": "2026.11.12 01:00"
+      "title": "Get quick answers from Gemini on any website.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "published_iso": "2026-11-12T17:00:00+00:00",
+      "published_kst": "2026.11.13 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "published_iso": "2026-11-11T09:00:00+00:00",
-      "published_kst": "2026.11.11 18:00"
+      "title": "Designing for privacy on intelligent eyewear",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+      "published_iso": "2026-11-12T14:00:00+00:00",
+      "published_kst": "2026.11.12 23:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "published_iso": "2026-11-12T13:48:00+00:00",
+      "published_kst": "2026.11.12 22:48"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
       "published_iso": "2026-10-27T05:52:00+00:00",
       "published_kst": "2026.10.27 14:52"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-      "published_iso": "2026-10-21T10:33:00+00:00",
-      "published_kst": "2026.10.21 19:33"
     }
   ]
 }
