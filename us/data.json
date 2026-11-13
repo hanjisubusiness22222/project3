@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:28:52+09:00",
+  "generated_at": "2026-11-14T07:40:37+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "published_iso": "2026-11-13T20:30:00+00:00",
+      "published_kst": "2026.11.14 05:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Connect Google Wallet to Gemini for personal finance insights",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "published_iso": "2026-11-13T17:00:00+00:00",
+      "published_kst": "2026.11.14 02:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -73,24 +91,6 @@
       "source": "Google 공식 블로그",
       "title": "Meet the 2026 Google PhD Fellows",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
-      "published_iso": "2026-11-12T17:00:00+00:00",
-      "published_kst": "2026.11.13 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
-      "published_iso": "2026-11-12T17:00:00+00:00",
-      "published_kst": "2026.11.13 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Get quick answers from Gemini on any website.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
       "published_iso": "2026-11-12T17:00:00+00:00",
       "published_kst": "2026.11.13 02:00"
     },
