@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:58:43+09:00",
+  "generated_at": "2026-11-13T10:07:55+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "published_iso": "2026-11-12T20:30:00+00:00",
+      "published_kst": "2026.11.13 05:30"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -84,15 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
       "published_iso": "2026-11-12T17:00:00+00:00",
       "published_kst": "2026.11.13 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Designing for privacy on intelligent eyewear",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
-      "published_iso": "2026-11-12T14:00:00+00:00",
-      "published_kst": "2026.11.12 23:00"
     },
     {
       "ticker": "NVDA",
