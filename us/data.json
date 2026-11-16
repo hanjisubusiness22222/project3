@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:46:42+09:00",
+  "generated_at": "2026-11-16T20:29:32+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "What teenagers really think about online safety and AI",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "published_iso": "2026-11-16T08:00:00+00:00",
+      "published_kst": "2026.11.16 17:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Helping teens navigate online news and information",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+      "published_iso": "2026-11-16T08:00:00+00:00",
+      "published_kst": "2026.11.16 17:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Listening to teens on online safety",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+      "published_iso": "2026-11-16T08:00:00+00:00",
+      "published_kst": "2026.11.16 17:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -66,33 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
       "published_iso": "2026-11-12T18:00:00+00:00",
       "published_kst": "2026.11.13 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "published_iso": "2026-11-12T18:00:00+00:00",
-      "published_kst": "2026.11.13 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Scientists are using Google AI to help restore giant kelp forests.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-      "published_iso": "2026-11-12T17:00:00+00:00",
-      "published_kst": "2026.11.13 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Meet the 2026 Google PhD Fellows",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
-      "published_iso": "2026-11-12T17:00:00+00:00",
-      "published_kst": "2026.11.13 02:00"
     },
     {
       "ticker": "NVDA",
