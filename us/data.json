@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:29:32+09:00",
+  "generated_at": "2026-11-17T07:09:46+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,100 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "What teenagers really think about online safety and AI",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
-      "published_iso": "2026-11-16T08:00:00+00:00",
-      "published_kst": "2026.11.16 17:00"
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "published_iso": "2026-11-16T18:45:00+00:00",
+      "published_kst": "2026.11.17 03:45"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Helping teens navigate online news and information",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
-      "published_iso": "2026-11-16T08:00:00+00:00",
-      "published_kst": "2026.11.16 17:00"
+      "title": "The era of autonomous attacks has arrived.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "published_iso": "2026-11-16T18:30:00+00:00",
+      "published_kst": "2026.11.17 03:30"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Listening to teens on online safety",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
-      "published_iso": "2026-11-16T08:00:00+00:00",
-      "published_kst": "2026.11.16 17:00"
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "published_iso": "2026-11-16T17:00:00+00:00",
+      "published_kst": "2026.11.17 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Claim your Google Cloud Credits in Google AI Studio",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
-      "published_iso": "2026-11-13T20:30:00+00:00",
-      "published_kst": "2026.11.14 05:30"
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "published_kst": "2026.11.17 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Connect Google Wallet to Gemini for personal finance insights",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
-      "published_iso": "2026-11-13T17:00:00+00:00",
-      "published_kst": "2026.11.14 02:00"
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "published_kst": "2026.11.17 01:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "5 new Google Flow Tools designed by visual artists",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-      "published_iso": "2026-11-12T20:30:00+00:00",
-      "published_kst": "2026.11.13 05:30"
+      "title": "How to find the best Black Friday deals and shop smarter",
+      "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
+      "published_iso": "2026-11-16T14:00:00+00:00",
+      "published_kst": "2026.11.16 23:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "published_iso": "2026-11-12T18:00:00+00:00",
-      "published_kst": "2026.11.13 03:00"
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published_iso": "2026-11-16T14:00:00+00:00",
+      "published_kst": "2026.11.16 23:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-      "published_iso": "2026-11-12T18:00:00+00:00",
-      "published_kst": "2026.11.13 03:00"
+      "title": "Navigate holiday traffic and crowds with Google Maps trends",
+      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
+      "published_iso": "2026-11-16T14:00:00+00:00",
+      "published_kst": "2026.11.16 23:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "published_kst": "2026.11.17 01:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "published_kst": "2026.11.17 01:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
+      "published_iso": "2026-11-16T16:00:00+00:00",
+      "published_kst": "2026.11.17 01:00"
     },
     {
       "ticker": "NVDA",
@@ -138,33 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
       "published_iso": "2026-11-08T20:00:00+00:00",
       "published_kst": "2026.11.09 05:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
-      "published_iso": "2026-10-28T21:00:00+00:00",
-      "published_kst": "2026.10.29 06:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
-      "published_iso": "2026-10-27T16:00:00+00:00",
-      "published_kst": "2026.10.28 01:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-      "published_iso": "2026-10-27T05:52:00+00:00",
-      "published_kst": "2026.10.27 14:52"
     }
   ]
 }
