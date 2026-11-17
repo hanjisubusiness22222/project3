@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:29:31+09:00",
+  "generated_at": "2026-11-18T07:55:07+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -26,73 +26,91 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Celebrate 100 years of Colonial Williamsburg online",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
-      "published_iso": "2026-11-17T14:00:00+00:00",
-      "published_kst": "2026.11.17 23:00"
+      "title": "How genome mapping can help researchers better understand disease",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+      "published_iso": "2026-11-17T22:00:00+00:00",
+      "published_kst": "2026.11.18 07:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Regional voices are rolling out in the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
-      "published_iso": "2026-11-16T18:45:00+00:00",
-      "published_kst": "2026.11.17 03:45"
+      "title": "See what 5 builders are making with Gemini 4 Carbon",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+      "published_iso": "2026-11-17T21:00:00+00:00",
+      "published_kst": "2026.11.18 06:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "The era of autonomous attacks has arrived.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
-      "published_iso": "2026-11-16T18:30:00+00:00",
-      "published_kst": "2026.11.17 03:30"
+      "title": "Read the EmbeddingGemma 2 technical report.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
-      "published_iso": "2026-11-16T17:00:00+00:00",
-      "published_kst": "2026.11.17 02:00"
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "New AI training performance benchmarks for Google TPUs",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
-      "published_iso": "2026-11-16T16:00:00+00:00",
-      "published_kst": "2026.11.17 01:00"
+      "title": "10 states team up with Google on free AI training",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
-      "published_iso": "2026-11-16T16:00:00+00:00",
-      "published_kst": "2026.11.17 01:00"
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "How to find the best Black Friday deals and shop smarter",
-      "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
-      "published_iso": "2026-11-16T14:00:00+00:00",
-      "published_kst": "2026.11.16 23:00"
+      "title": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "Ask Maps is coming to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
-      "published_iso": "2026-11-16T14:00:00+00:00",
-      "published_kst": "2026.11.16 23:00"
+      "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+      "published_iso": "2026-11-17T17:00:00+00:00",
+      "published_kst": "2026.11.18 02:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "published_iso": "2026-11-17T22:18:00+00:00",
+      "published_kst": "2026.11.18 07:18"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "published_iso": "2026-11-17T21:20:00+00:00",
+      "published_kst": "2026.11.18 06:20"
     },
     {
       "ticker": "NVDA",
@@ -147,24 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
       "published_iso": "2026-11-10T19:07:00+00:00",
       "published_kst": "2026.11.11 04:07"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
-      "published_iso": "2026-11-09T05:00:00+00:00",
-      "published_kst": "2026.11.09 14:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "A Message to Our Company",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "published_iso": "2026-11-08T21:02:00+00:00",
-      "published_kst": "2026.11.09 06:02"
     }
   ]
 }
