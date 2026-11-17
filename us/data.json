@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:31:47+09:00",
+  "generated_at": "2026-11-17T23:29:31+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,15 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Celebrate 100 years of Colonial Williamsburg online",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+      "published_iso": "2026-11-17T14:00:00+00:00",
+      "published_kst": "2026.11.17 23:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -80,19 +89,19 @@
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
       "source": "Google 공식 블로그",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "title": "Ask Maps is coming to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
       "published_iso": "2026-11-16T14:00:00+00:00",
       "published_kst": "2026.11.16 23:00"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Navigate holiday traffic and crowds with Google Maps trends",
-      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
-      "published_iso": "2026-11-16T14:00:00+00:00",
-      "published_kst": "2026.11.16 23:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+      "published_iso": "2026-11-17T10:00:00+00:00",
+      "published_kst": "2026.11.17 19:00"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "published_iso": "2026-11-08T21:02:00+00:00",
       "published_kst": "2026.11.09 06:02"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Statement From NVIDIA Board of Directors",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "published_iso": "2026-11-08T20:00:00+00:00",
-      "published_kst": "2026.11.09 05:00"
     }
   ]
 }
