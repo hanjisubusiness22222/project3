@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:33:10+09:00",
+  "generated_at": "2026-11-19T22:16:59+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "published_iso": "2026-11-19T13:00:00+00:00",
+      "published_kst": "2026.11.19 22:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Google’s water stewardship commitments for local communities",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+      "published_iso": "2026-11-19T10:00:00+00:00",
+      "published_kst": "2026.11.19 19:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -75,24 +93,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "published_iso": "2026-11-18T17:00:00+00:00",
       "published_kst": "2026.11.19 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
-      "published_iso": "2026-11-18T17:00:00+00:00",
-      "published_kst": "2026.11.19 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Cybersecurity tips and tools to keep you safe online",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
-      "published_iso": "2026-11-18T14:00:00+00:00",
-      "published_kst": "2026.11.18 23:00"
     },
     {
       "ticker": "NVDA",
