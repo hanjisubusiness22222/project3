@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:40:13+09:00",
+  "generated_at": "2026-11-20T12:22:26+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -98,6 +98,15 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Announces Upcoming Event for Financial Community",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+      "published_iso": "2026-11-19T22:00:00+00:00",
+      "published_kst": "2026.11.20 07:00"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
       "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
       "published_iso": "2026-11-17T22:18:00+00:00",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "published_iso": "2026-11-12T13:48:00+00:00",
       "published_kst": "2026.11.12 22:48"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "Statement From the Independent Members of the NVIDIA Board",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
-      "published_iso": "2026-11-10T19:07:00+00:00",
-      "published_kst": "2026.11.11 04:07"
     }
   ]
 }
