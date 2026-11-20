@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:58:14+09:00",
+  "generated_at": "2026-11-21T06:10:04+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "published_iso": "2026-11-20T18:00:00+00:00",
+      "published_kst": "2026.11.21 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "published_iso": "2026-11-20T17:00:00+00:00",
+      "published_kst": "2026.11.21 02:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -73,24 +91,6 @@
       "source": "Google 공식 블로그",
       "title": "Small businesses, big results: How teams scale with AI",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
-      "published_iso": "2026-11-19T17:00:00+00:00",
-      "published_kst": "2026.11.20 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "published_iso": "2026-11-19T17:00:00+00:00",
-      "published_kst": "2026.11.20 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Genie 4 is now available on the Gemini API.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
       "published_iso": "2026-11-19T17:00:00+00:00",
       "published_kst": "2026.11.20 02:00"
     },
