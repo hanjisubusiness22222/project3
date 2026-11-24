@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:59:19+09:00",
+  "generated_at": "2026-11-25T06:16:15+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "published_iso": "2026-11-24T19:30:00+00:00",
+      "published_kst": "2026.11.25 04:30"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published_iso": "2026-11-24T16:00:00+00:00",
+      "published_kst": "2026.11.25 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+      "published_iso": "2026-11-24T16:00:00+00:00",
+      "published_kst": "2026.11.25 01:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "published_iso": "2026-11-24T14:00:00+00:00",
+      "published_kst": "2026.11.24 23:00"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -57,42 +93,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
       "published_iso": "2026-11-23T17:00:00+00:00",
       "published_kst": "2026.11.24 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
-      "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
-      "published_iso": "2026-11-23T17:00:00+00:00",
-      "published_kst": "2026.11.24 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing file slicing controls in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
-      "published_iso": "2026-11-23T16:12:00+00:00",
-      "published_kst": "2026.11.24 01:12"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Get your year-end tasks done with new Connected Apps.",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
-      "published_iso": "2026-11-20T18:00:00+00:00",
-      "published_kst": "2026.11.21 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
-      "published_iso": "2026-11-20T17:00:00+00:00",
-      "published_kst": "2026.11.21 02:00"
     },
     {
       "ticker": "NVDA",
