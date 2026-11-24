@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:54:50+09:00",
+  "generated_at": "2026-11-24T09:56:24+09:00",
   "sources": [
     {
       "ticker": "GOOGL",
@@ -22,6 +22,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+      "published_iso": "2026-11-23T18:00:00+00:00",
+      "published_kst": "2026.11.24 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "published_iso": "2026-11-23T18:00:00+00:00",
+      "published_kst": "2026.11.24 03:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published_iso": "2026-11-23T17:00:00+00:00",
+      "published_kst": "2026.11.24 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "published_iso": "2026-11-23T17:00:00+00:00",
+      "published_kst": "2026.11.24 02:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet / Google",
+      "source": "Google 공식 블로그",
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "published_iso": "2026-11-23T16:12:00+00:00",
+      "published_kst": "2026.11.24 01:12"
+    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet / Google",
@@ -50,49 +95,13 @@
       "published_kst": "2026.11.20 05:30"
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
-      "published_iso": "2026-11-19T19:00:00+00:00",
-      "published_kst": "2026.11.20 04:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "published_iso": "2026-11-19T18:00:00+00:00",
-      "published_kst": "2026.11.20 03:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "published_iso": "2026-11-19T17:00:00+00:00",
-      "published_kst": "2026.11.20 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "A smarter way to track and buy clean energy",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
-      "published_iso": "2026-11-19T17:00:00+00:00",
-      "published_kst": "2026.11.20 02:00"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet / Google",
-      "source": "Google 공식 블로그",
-      "title": "Small businesses, big results: How teams scale with AI",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
-      "published_iso": "2026-11-19T17:00:00+00:00",
-      "published_kst": "2026.11.20 02:00"
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "source": "NVIDIA Newsroom 보도자료",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "published_iso": "2026-11-23T13:55:00+00:00",
+      "published_kst": "2026.11.23 22:55"
     },
     {
       "ticker": "NVDA",
@@ -156,15 +165,6 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
       "published_iso": "2026-11-16T16:00:00+00:00",
       "published_kst": "2026.11.17 01:00"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "source": "NVIDIA Newsroom 보도자료",
-      "title": "NVIDIA Announces CEO Transition",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "published_iso": "2026-11-12T13:48:00+00:00",
-      "published_kst": "2026.11.12 22:48"
     }
   ]
 }
